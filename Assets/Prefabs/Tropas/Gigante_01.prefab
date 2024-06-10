@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6781288588167001560}
   - component: {fileID: 9143336639756426339}
+  - component: {fileID: 908335668154591319}
   m_Layer: 0
   m_Name: Gigante_01
   m_TagString: Untagged
@@ -56,6 +57,27 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!95 &908335668154591319
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7483314123179973351}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 607e158cff1de644391d61da9ca0099b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &8913928288529579095
 GameObject:
   m_ObjectHideFlags: 0
@@ -81,9 +103,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8913928288529579095}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.5, y: 0, z: 0.49999994, w: 0.70710677}
+  m_LocalRotation: {x: 0.3535534, y: 0.3535534, z: -0.14644665, w: 0.85355335}
   m_LocalPosition: {x: 0, y: -0.25, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_LocalScale: {x: 1.6, y: 1.6, z: 1.6}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6781288588167001560}
@@ -129,7 +151,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1106557714, guid: 04f62bd813769024a824a8167521b059, type: 3}
+  m_Sprite: {fileID: -861996059, guid: c1db95861fdac524380a928ca0ef97c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
