@@ -1227,7 +1227,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1315
-        y: 1434
+        y: 1432
         width: 116
         height: 134
       alignment: 0
@@ -2944,6 +2944,1959 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Gig_PR_00
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 436
+        width: 79
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d604b708427a543b1808df76a6000f
+      internalID: 1478454997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_01
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 440
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da57d5d6f825143b91bb3dc4cb7875
+      internalID: 2104715998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 442
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a790c5db2c851c349b7523abd61a0661
+      internalID: 715636760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_03
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 437
+        width: 124
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad45b46047bdf45a4db55df9134132
+      internalID: -1594529823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_04
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 440
+        width: 160
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05690ab27961e438d5b061cc89405c
+      internalID: -500865377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_05
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 432
+        width: 86
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3e37f288481240a92c8a72cc415f8
+      internalID: 1746617935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_06
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 445
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbebd0a0b67e264c93eb26d8c720a2a
+      internalID: 310302939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_07
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 439
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3521dfd0dd49eac4b8a60dce6c84e785
+      internalID: -2046852717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_08
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 441
+        width: 138
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a6fbbc821d4542a4e1386a8758a96
+      internalID: 1733080928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_09
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 438
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29db5ecd6dd0834c9ab79441da95f06
+      internalID: 554151362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_10
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 441
+        width: 108
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206805d21ce99bc4993a0943d8e70a17
+      internalID: 632947907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PR_11
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 439
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a07147c9a233e44cb6c691ebb24439c
+      internalID: -475666997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 627
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c2d7484a0d2d148a5a376ecddcffcd
+      internalID: 533831446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 652
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44f2399e9e8de4da238ccda2c449eb
+      internalID: 2040774255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 627
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1087e9d539ee40b30034560ef6726
+      internalID: -649805223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 621
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a66872eaabfdd488588fcfc0f99ba8
+      internalID: 781532969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 628
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05c553287a4d044ac8c43eaf9551ff
+      internalID: 1530016486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 628
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd17fc648c202044a1bcee5346dce4e
+      internalID: 11123169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 628
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223956f1fa7ec0743b334b8baeae99a7
+      internalID: -90022576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 652
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce5ffaf7bbd20499c41cffd99d86b9
+      internalID: -1027773195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 628
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dafe6e13aaa0a4f9dc57ef055b3079
+      internalID: -916617129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 627
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0469f1f9e93bf443ab5cd34b7faaf23
+      internalID: 1188564214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 621
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a1be8cfb5be74cbc69f2058574ca5
+      internalID: -1848349506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 628
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fda1aef59b64498b1d0b6ea4b8021
+      internalID: -870289173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 618
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5935ca0a2b4cb4842beb554d321d949d
+      internalID: -447220654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 627
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814661845a468c14a980754e9ebc42a1
+      internalID: -447021074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 628
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b572ecd92a31b4783d078f5f61c2eb
+      internalID: -6101730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 627
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3f82eb73df1e42b1f359916c75655
+      internalID: -343909740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 627
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2b5fa2c9b5d84bba19f75d4e7e393
+      internalID: 1870957727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 628
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7782c99c491f4e87f9f3c5bedc310
+      internalID: -2064721672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 627
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da5789d3a23fc947828a3117255b6cb
+      internalID: -783775881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 628
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc0ed0c0173db43be2751450fd7233
+      internalID: 892754415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 618
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e72a45cecb9124f9d71a745ca339d1
+      internalID: -376595479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 296
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eadcff48beefdb4ea395028d7256ec7
+      internalID: -1569246567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 321
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5aab414e2e2dd4494d8eab87087440
+      internalID: -1459919556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_149
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 296
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b48b4a99bc4044a9804a8651bb1769
+      internalID: 2126488097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 290
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28373e5c584a7444832789a4c90c153
+      internalID: -1607708715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 297
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c3df5bf125044589815dda1070731
+      internalID: 1158031664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 297
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ba571a0dc11344897577802ce42916
+      internalID: -776489532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5f83b6a7dba6e469d6e82e34a59e26
+      internalID: -531672896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 290
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009991d00fc362249bb4ace711b79c6e
+      internalID: 1221035364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae3c847dfa35d468a069bc4a48cfee
+      internalID: -370287615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb1f79a2e17cff4b8f0566f323939f4
+      internalID: 1096584900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 296
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdda67938e41274188c6c72c64a21b7
+      internalID: 1984954720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 297
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d71ff6437c1b4185e54623a28b490
+      internalID: 1207226146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd364b2eef4fa04586b786699d01298
+      internalID: 2142735106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 296
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbbe595b0133f4289f695f041cea9c
+      internalID: 1266450292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 297
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c48237ab4e74b4f94f39e772764033
+      internalID: -2097378419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 296
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dfc100e5a084f41b0d894faf5290db
+      internalID: 559444782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 287
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64343498d8c9ad8468368f54c9fb3598
+      internalID: 493811889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_00
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 128
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71216bc30a6d9d942acf8852a79a0060
+      internalID: -1077919437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_01
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 111
+        width: 134
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff8d13b48ff0b43816fbbdaa616f71
+      internalID: -499519742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_02
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 113
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3eb903b557ebe47906f3c3b4f7fd4d
+      internalID: 1800768295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_03
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 101
+        width: 116
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34a2793d2e2114392a66d85facb546
+      internalID: -2007313526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_04
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 101
+        width: 114
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771d6fdda8b0b542af99c42a270ddac
+      internalID: 934243585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_05
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 116
+        width: 176
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb7e675a344ce4ab182ef2c3fbea02
+      internalID: 281781398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_06
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 109
+        width: 163
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec58b697a94a5f449b7ebc107b674236
+      internalID: -976441418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_07
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 109
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea43f1330aac24bbdd2188cff58180
+      internalID: -519281062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_08
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 111
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed1c1dbfb92f934fa607125dbf15040
+      internalID: -1211157725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_09
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 109
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9758d015f40077443acc4f35525ac9d9
+      internalID: -137579544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PU_10
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 109
+        width: 125
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435707777b3dd2645b2599fec002b20f
+      internalID: -912859690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 955
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d070a57bb35640807ee844fccbd86
+      internalID: -665022224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 980
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f63185ea31fe44bb961476b026844a
+      internalID: -1497935549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 955
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b984550fec624c9ee02a45b0609bc
+      internalID: 202778373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 949
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229fb1913f12ae7479b6b1bc70ba22c0
+      internalID: -2048158620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 956
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54921882b353e73428aeb3fe01c9ac5c
+      internalID: -1320048056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 956
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9655ff77299fa3b448065532e68a9d41
+      internalID: 527879966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 956
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c9c9ab0aae6534ba77304c6d4acaf8
+      internalID: -1473505336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 980
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75993af45882054783e9375f7dcc7a2
+      internalID: -2137157406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 956
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f28324fecb7a419d728d3a818f140
+      internalID: 762281125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 955
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d66e2da859944a86900d3c8cd1d51
+      internalID: 813298796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 949
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf380141661b034a982ee5dcb1a79e7
+      internalID: 1102412394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 956
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df0f345b5dfb2444b38051c00a3ffb9
+      internalID: 145233919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 946
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe232416d8fd0f749b8e932faade57ca
+      internalID: 1587318766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 955
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b18b85fd25d9b46b2c8f4f5a97807c
+      internalID: 1326235500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 956
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879f9b796bca15440abdc8ae7c08673d
+      internalID: -235633102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 955
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f8d8df86dfb34f95a0c23b6285495
+      internalID: -1474196838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 955
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd7ca69e65fad41ac2ca45c1216b85
+      internalID: -1039208923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 956
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d75f780ae18743a2ffc5a4bfa2d6b
+      internalID: 454488032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 955
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b206318c00624cb1d3dcec5be730c
+      internalID: 802027784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 956
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7fc9c09335f649ae492653ecc3763
+      internalID: -901621385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gigante_CoC_Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 946
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a74af3909764449a353bf3edd9d684
+      internalID: 702899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_00
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 778
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918c7e5915a3a34fbe7b0e866dd7c7c
+      internalID: 1252469388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_01
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 778
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d8015b9213f1241babd3f369b13843
+      internalID: -268734849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_02
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 783
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d491a6f8092b4f82e894f23fc540a
+      internalID: -874591798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_03
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 784
+        width: 190
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c5460eb64d944899d96b6beb52e34
+      internalID: -1580674423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_04
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 781
+        width: 205
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d0a030862427247969ae651ed39a55
+      internalID: -1346315473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_05
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 786
+        width: 192
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983705654df3da48a9dbe43b249055a
+      internalID: 1909979402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_06
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 770
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be39afade178d43a0c9cd982246f5f
+      internalID: 879041325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_07
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 775
+        width: 112
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf0c8a589760646b3ebb9daf593358
+      internalID: -1916299575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_08
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 775
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5be99bfbe1d348a767260eda1d99c
+      internalID: 803086705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_09
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 773
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c0153dfbe1f49419bedaed71619a37
+      internalID: -366393282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gig_PD_10
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 784
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38028567ce8da544b8887038a27d5225
+      internalID: -1821197986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2958,6 +4911,40 @@ TextureImporter:
       Gig_ID_01: -21848959
       Gig_IR_01: 207598445
       Gig_IU_01: 1198711580
+      Gig_PD_00: 1252469388
+      Gig_PD_01: -268734849
+      Gig_PD_02: -874591798
+      Gig_PD_03: -1580674423
+      Gig_PD_04: -1346315473
+      Gig_PD_05: 1909979402
+      Gig_PD_06: 879041325
+      Gig_PD_07: -1916299575
+      Gig_PD_08: 803086705
+      Gig_PD_09: -366393282
+      Gig_PD_10: -1821197986
+      Gig_PR_00: 1478454997
+      Gig_PR_01: 2104715998
+      Gig_PR_02: 715636760
+      Gig_PR_03: -1594529823
+      Gig_PR_04: -500865377
+      Gig_PR_05: 1746617935
+      Gig_PR_06: 310302939
+      Gig_PR_07: -2046852717
+      Gig_PR_08: 1733080928
+      Gig_PR_09: 554151362
+      Gig_PR_10: 632947907
+      Gig_PR_11: -475666997
+      Gig_PU_00: -1077919437
+      Gig_PU_01: -499519742
+      Gig_PU_02: 1800768295
+      Gig_PU_03: -2007313526
+      Gig_PU_04: 934243585
+      Gig_PU_05: 281781398
+      Gig_PU_06: -976441418
+      Gig_PU_07: -519281062
+      Gig_PU_08: -1211157725
+      Gig_PU_09: -137579544
+      Gig_PU_10: -912859690
       Gig_WD_00: 1981740325
       Gig_WD_01: -1453603833
       Gig_WD_02: -301224908
@@ -2998,12 +4985,69 @@ TextureImporter:
       Gigante_CoC_Sprite_104: -1118616265
       Gigante_CoC_Sprite_105: -234494889
       Gigante_CoC_Sprite_106: 1771559331
+      Gigante_CoC_Sprite_107: 202778373
+      Gigante_CoC_Sprite_108: -2048158620
+      Gigante_CoC_Sprite_109: -1320048056
       Gigante_CoC_Sprite_11: 2033380541
+      Gigante_CoC_Sprite_110: 527879966
+      Gigante_CoC_Sprite_111: -1473505336
+      Gigante_CoC_Sprite_112: -2137157406
+      Gigante_CoC_Sprite_113: 762281125
+      Gigante_CoC_Sprite_114: 813298796
+      Gigante_CoC_Sprite_115: 1102412394
+      Gigante_CoC_Sprite_116: 145233919
+      Gigante_CoC_Sprite_117: 1587318766
+      Gigante_CoC_Sprite_118: 1326235500
+      Gigante_CoC_Sprite_119: -235633102
       Gigante_CoC_Sprite_12: 830143645
+      Gigante_CoC_Sprite_120: -1474196838
+      Gigante_CoC_Sprite_121: -1039208923
+      Gigante_CoC_Sprite_122: 454488032
+      Gigante_CoC_Sprite_123: 802027784
+      Gigante_CoC_Sprite_124: -901621385
+      Gigante_CoC_Sprite_125: 702899
+      Gigante_CoC_Sprite_126: 533831446
+      Gigante_CoC_Sprite_127: 2040774255
+      Gigante_CoC_Sprite_128: -649805223
+      Gigante_CoC_Sprite_129: 781532969
       Gigante_CoC_Sprite_13: 1154667808
+      Gigante_CoC_Sprite_130: 1530016486
+      Gigante_CoC_Sprite_131: 11123169
+      Gigante_CoC_Sprite_132: -90022576
+      Gigante_CoC_Sprite_133: -1027773195
+      Gigante_CoC_Sprite_134: -916617129
+      Gigante_CoC_Sprite_135: 1188564214
+      Gigante_CoC_Sprite_136: -1848349506
+      Gigante_CoC_Sprite_137: -870289173
+      Gigante_CoC_Sprite_138: -447220654
+      Gigante_CoC_Sprite_139: -447021074
       Gigante_CoC_Sprite_14: -1467919008
+      Gigante_CoC_Sprite_140: -6101730
+      Gigante_CoC_Sprite_141: -343909740
+      Gigante_CoC_Sprite_142: 1870957727
+      Gigante_CoC_Sprite_143: -2064721672
+      Gigante_CoC_Sprite_144: -783775881
+      Gigante_CoC_Sprite_145: 892754415
+      Gigante_CoC_Sprite_146: -376595479
+      Gigante_CoC_Sprite_147: -1569246567
+      Gigante_CoC_Sprite_148: -1459919556
+      Gigante_CoC_Sprite_149: 2126488097
       Gigante_CoC_Sprite_15: -519980779
+      Gigante_CoC_Sprite_150: -1607708715
+      Gigante_CoC_Sprite_151: 1158031664
+      Gigante_CoC_Sprite_152: -776489532
+      Gigante_CoC_Sprite_153: -531672896
+      Gigante_CoC_Sprite_154: 1221035364
+      Gigante_CoC_Sprite_155: -370287615
+      Gigante_CoC_Sprite_156: 1096584900
+      Gigante_CoC_Sprite_157: 1984954720
+      Gigante_CoC_Sprite_158: 1207226146
+      Gigante_CoC_Sprite_159: 2142735106
       Gigante_CoC_Sprite_16: -1734135318
+      Gigante_CoC_Sprite_160: 1266450292
+      Gigante_CoC_Sprite_161: -2097378419
+      Gigante_CoC_Sprite_162: 559444782
+      Gigante_CoC_Sprite_163: 493811889
       Gigante_CoC_Sprite_17: -1455043231
       Gigante_CoC_Sprite_18: 445722626
       Gigante_CoC_Sprite_19: -1540255235
@@ -3061,6 +5105,7 @@ TextureImporter:
       Gigante_CoC_Sprite_66: 395693501
       Gigante_CoC_Sprite_67: 946296029
       Gigante_CoC_Sprite_68: 1498025856
+      Gigante_CoC_Sprite_69: -665022224
       Gigante_CoC_Sprite_7: 588856198
       Gigante_CoC_Sprite_70: -867530796
       Gigante_CoC_Sprite_71: -1849302828
@@ -3084,6 +5129,7 @@ TextureImporter:
       Gigante_CoC_Sprite_88: 254051827
       Gigante_CoC_Sprite_89: -990721852
       Gigante_CoC_Sprite_9: 496027973
+      Gigante_CoC_Sprite_90: -1497935549
       Gigante_CoC_Sprite_91: -1287792666
       Gigante_CoC_Sprite_92: 927286
       Gigante_CoC_Sprite_93: -372236887
