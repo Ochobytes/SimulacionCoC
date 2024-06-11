@@ -141993,6 +141993,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6247196979723018440, guid: a32e31026d272a34aa7b0dc2b98154df, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6247196979723018440, guid: a32e31026d272a34aa7b0dc2b98154df, type: 3}
       propertyPath: m_Size.x
       value: 1.15
       objectReference: {fileID: 0}
