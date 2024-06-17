@@ -110,11 +110,998 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 668
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5a6944b9d6a845b016f4c40a8aeb2
+      internalID: -1066571496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 667
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b041a67c110f74340b3580ae77f1d341
+      internalID: 166568137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 668
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee630db68c775f4e925ad359ffa78c3
+      internalID: 1280652431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 667
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd3fc64f1f90a34e8f2cf8ef1a71dd1
+      internalID: -1463514722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 667
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ec72596c9ce649b3cd89dcd17d206
+      internalID: -988481831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 668
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe425fd98bba603458caec7a54f51e9f
+      internalID: -1993257257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 667
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a4e52e2de36114da7f2ad4c17360c8
+      internalID: 877471699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 661
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a2aa1af5eaf049b7f64470e0a8c2b
+      internalID: -636433379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 668
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c0df865ba6275459ba1aa240983261
+      internalID: -559386709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 667
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b5b2e671b73964dad50bc8d616e08b
+      internalID: -1581164417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 668
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103af3e772e96b1458fa4750720d9b8c
+      internalID: 1867886172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 668
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d1b597f4bd194f9f1673b6bfe19f2
+      internalID: 1258898785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 667
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9db648b28a659a408703b5c7254e09f
+      internalID: 1041862201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 658
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd2f7bbf33ef244f883586be193d6e5
+      internalID: 850209250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 661
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14338f53ecfd5ba4c9186121c3281b85
+      internalID: -221814205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 668
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3ba440a1a9e84db6dc6a6d2c7e4b0
+      internalID: -1868310573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 667
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0a55c3bcb25c4bb459ee396928998
+      internalID: 1585582829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 668
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4594ae4e3995949a7559e3419d3d66
+      internalID: -1128849742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 667
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c238d14b3579344c8169c75215b2a67
+      internalID: 1950899501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 667
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b786fa7145d95498d98f260a669420
+      internalID: 1187920304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 668
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2500e9095a4a204c85b1bd9a1c86c8a
+      internalID: 1203767821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 667
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6dd94eb0401c042aea6228c7dd6f71
+      internalID: 1487932072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 661
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df29a30ca99a534db1f0e2257a6bbb8
+      internalID: -522923778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 668
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f085fed1453146bf07b4a02a0a3e7
+      internalID: -1918899113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 667
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca8a78f0ce3a3841abe90333cdabc24
+      internalID: -1533087919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 667
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335bf948a9d9f064ab5a29cf79b63f70
+      internalID: 1960964320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 667
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dbefd94f022aa4d8d35bb789dcec4b
+      internalID: 1325681446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 667
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03651b085632334a8ed86b57cdaa913
+      internalID: 294400673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 668
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058eaaab8d91e5d49b62130d256ee36b
+      internalID: 70841231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 667
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229f3e52ee6d896449ca877861feb2aa
+      internalID: -1149601658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 658
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6be8383b14a0d4f9270742b4f2c148
+      internalID: 814034673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 661
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df553bddafcb7744ad5bfd847730f24
+      internalID: 1358881840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 668
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1e229fb021cc48834fe4ad7ba9886
+      internalID: 1224930860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 667
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7ae79d077c52042b3aabcf5ff1bba0
+      internalID: -979080831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 668
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d6b055bcd8424cab31e56a8339097
+      internalID: 1183710007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 667
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4787bc04414c5d40b035ce8d2c87f8a
+      internalID: 61712002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 667
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2015ea402d0a84e91c0fdb560e238f
+      internalID: 1216304409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 668
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab317cc93645446bd147315baa7611
+      internalID: -479533919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 667
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d274b1519990e4a40af19f3ca4aac08b
+      internalID: 454929594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 661
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426385e678c0653468c509f33c247014
+      internalID: -797560258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 668
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e2e6d513b5bd478da55602ff8e4c8
+      internalID: 804001306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 667
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75581ada3aa287049bc98b6131c05cfc
+      internalID: -1028382130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 668
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c27239957679d4f88c7ff715e7d0d0
+      internalID: 595080641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 667
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df45ec95a2b3bff48a842ecf67b75f2a
+      internalID: -1043790075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 667
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403cb7ed2d21d8e4db3208762bde49db
+      internalID: -550048571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 658
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f983ef1d92ae74c43a6b55222b5a2e8f
+      internalID: -520602705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 661
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91e5224f3db3e4d8c1e33d5a02ecbe
+      internalID: 930980929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: Barbaro_U_Walk_00
       rect:
         serializedVersion: 2
         x: 96
-        y: 1822
+        y: 541
         width: 66
         height: 70
       alignment: 0
@@ -124,7 +1111,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a10001e445db9c946a9743332e0a3c0a
+      spriteID: 5b35e7fc8f37f3e44865a4ade9176978
       internalID: -1986965974
       vertices: []
       indices: 
@@ -135,7 +1122,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 198
-        y: 1818
+        y: 538
         width: 58
         height: 75
       alignment: 0
@@ -145,7 +1132,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da341e396707ce74a80ed42c7a285ca5
+      spriteID: 09355ad6102e98747a86789368b11885
       internalID: -1774247230
       vertices: []
       indices: 
@@ -156,7 +1143,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 288
-        y: 1817
+        y: 538
         width: 64
         height: 77
       alignment: 0
@@ -166,7 +1153,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30a19cf78cd78664e8cad3d60bcc0b5e
+      spriteID: 9f866ae7ba13b1546b702fddbca06b0e
       internalID: -1148855303
       vertices: []
       indices: 
@@ -177,7 +1164,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 1813
+        y: 533
         width: 59
         height: 81
       alignment: 0
@@ -187,7 +1174,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cd37f772cf78c04c8a15928231b389b
+      spriteID: 11b6dfdfb49ac4d48bc7926d79e86340
       internalID: -203250885
       vertices: []
       indices: 
@@ -198,7 +1185,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 476
-        y: 1809
+        y: 529
         width: 72
         height: 92
       alignment: 0
@@ -208,7 +1195,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21b07ec113cf87f42ac0fd1c46fd41d6
+      spriteID: cf50322cae794e547b8ed186dede11d5
       internalID: 1000351997
       vertices: []
       indices: 
@@ -219,7 +1206,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 566
-        y: 1809
+        y: 529
         width: 74
         height: 92
       alignment: 0
@@ -229,7 +1216,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c136edbaf0097846b366f50a402bf64
+      spriteID: 74a6b446393a7f540b635973ac0ec612
       internalID: -99081388
       vertices: []
       indices: 
@@ -240,7 +1227,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 667
-        y: 1811
+        y: 531
         width: 72
         height: 89
       alignment: 0
@@ -250,29 +1237,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdb4651ee6c6bca44a7e13a2215705f5
+      spriteID: fc1d8bedec103e645abe527ea556c007
       internalID: 290684427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Barbaro_U_Idle_01
-      rect:
-        serializedVersion: 2
-        x: 1830
-        y: 1818
-        width: 51
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffc35e0926819e64994b9b40480314d8
-      internalID: -29412240
       vertices: []
       indices: 
       edges: []
@@ -281,8 +1247,8 @@ TextureImporter:
       name: Barbaro_U_Attack_00
       rect:
         serializedVersion: 2
-        x: 101
-        y: 1557
+        x: 957
+        y: 533
         width: 56
         height: 86
       alignment: 0
@@ -292,7 +1258,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 941b14c040e609f42866bf248f8a3b24
+      spriteID: 71381ac47552c074c9407c211baa2116
       internalID: 1856283915
       vertices: []
       indices: 
@@ -302,8 +1268,8 @@ TextureImporter:
       name: Barbaro_U_Attack_01
       rect:
         serializedVersion: 2
-        x: 192
-        y: 1551
+        x: 1048
+        y: 527
         width: 58
         height: 98
       alignment: 0
@@ -313,7 +1279,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c66d97aeb928e14fb8f6af4a4d15a73
+      spriteID: 97ee7041ef08a0843a7fc5e924d7c6c6
       internalID: -211020532
       vertices: []
       indices: 
@@ -323,8 +1289,8 @@ TextureImporter:
       name: Barbaro_U_Attack_02
       rect:
         serializedVersion: 2
-        x: 291
-        y: 1560
+        x: 1147
+        y: 536
         width: 57
         height: 80
       alignment: 0
@@ -334,7 +1300,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 445461bdf4457694bb31c7bdd6e0f0e3
+      spriteID: dbb8e0f045e46b0418a92fb0cb5fad7f
       internalID: -1804953703
       vertices: []
       indices: 
@@ -344,8 +1310,8 @@ TextureImporter:
       name: Barbaro_U_Attack_03
       rect:
         serializedVersion: 2
-        x: 411
-        y: 1558
+        x: 1267
+        y: 534
         width: 73
         height: 82
       alignment: 0
@@ -355,7 +1321,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee0f6a651183658438e7453c7faff24e
+      spriteID: 320b8ca1396f4114ca51a5d0b379f835
       internalID: 1470201743
       vertices: []
       indices: 
@@ -365,8 +1331,8 @@ TextureImporter:
       name: Barbaro_U_Attack_04
       rect:
         serializedVersion: 2
-        x: 509
-        y: 1560
+        x: 1387
+        y: 536
         width: 66
         height: 79
       alignment: 0
@@ -376,7 +1342,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d11cd2b93696a0c4da04f20a752b9ed7
+      spriteID: 573b2b013939c72448574c8ce51f3bab
       internalID: -671934300
       vertices: []
       indices: 
@@ -386,8 +1352,8 @@ TextureImporter:
       name: Barbaro_U_Attack_05
       rect:
         serializedVersion: 2
-        x: 589
-        y: 1558
+        x: 1503
+        y: 534
         width: 52
         height: 83
       alignment: 0
@@ -397,8 +1363,2969 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71db0d67c61a84f4892788c697be72d1
+      spriteID: b768848c4acf94c46961b4a1d1a0b63c
       internalID: -184730402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_U_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 538
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a83e6e107168a48a7af1211e049d6e
+      internalID: -1557370584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 440
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b564d5e43d3ff9449e4c0ab590d43b2
+      internalID: 878561675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 439
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de80c2612f847f4499efeeaa25650a1
+      internalID: 2087233663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 433
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b2ad5f2ecfac047a47f4185e501b82
+      internalID: -287844250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 440
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad42a049736f7942bbdcde334c0f1a0
+      internalID: -1444232046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 440
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f99b25d686c4f4da03b673ccfb690c
+      internalID: -1739383564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 440
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94604301d540514429e8f50cbdd45998
+      internalID: 171763145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 440
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcae7845d9cd7e47a12109943d4e283
+      internalID: 463366923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 464
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086d9fb24a495142b1389b27184ed68
+      internalID: 2106233390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d65588b76ac0469841d3236b43a00
+      internalID: -1656982217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 439
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f226c6594f971648a1257369a01238c
+      internalID: -875807570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 433
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28986df12b79ec844bf479b02c27aecf
+      internalID: 1631518030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 440
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac426ae52b9a8a4bae8fd744fb523d0
+      internalID: 484617747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 439
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad3d697d881eb42829cbf264d75d6a
+      internalID: -1382488809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 433
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c312c0ffffe3e49b427e91801311bc
+      internalID: -1623181234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 440
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2318b6718024d4fa2318476aedbd08
+      internalID: 241615864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 439
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647800e7d6500c4d93fb7d5ed3cbc77
+      internalID: 103852083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 439
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b7346d3a86e94c861666767bc5547
+      internalID: -733705085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 440
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b21e7b18906524ba8aa5c605e00d07
+      internalID: -1351550631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 440
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452b5571bea06042b6daff4a496cdbc
+      internalID: 1863980548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 464
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f76ea878fd0447a4379037fc5c107
+      internalID: 1559961331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623eb85886939104a94cd334fe10d206
+      internalID: -1478834005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 439
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081dfb4c5fa78f48a097064f4aacded
+      internalID: 1678489877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 433
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59753e05b7bae34e81d77468651795e
+      internalID: -1617290087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 440
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30540595c8cca874c99e533b2411640b
+      internalID: -969030571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 439
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970649488b6a75942bacc549625e9f79
+      internalID: 2005291625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 433
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ae205927ef1b41b4bc06fe09d5c6b
+      internalID: -195891357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 440
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097bdb5b2656254499fadcd233a3c590
+      internalID: -1227576764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 439
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f72cbf643ffac543a353008e186c921
+      internalID: -751799181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 440
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f214d53470b9d349b3f14e043fe4725
+      internalID: -751388963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 440
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd49e0c09a5e084b9b0cb871fe67d23
+      internalID: -1945014746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 464
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72fab00bf01e54e8c3cc16aa0cb8d3
+      internalID: -556024445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce0e7e2af608be49a85d0fe01d4fdf6
+      internalID: 263506917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 439
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a82a3a6c04624394d9ba6aa7188aa
+      internalID: -1404193395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 433
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef0a7a554bb414eb28dd96ac05e0a6
+      internalID: 1709599305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9948a92bf005b46911ad9d8459d914
+      internalID: 1936273640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 440
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f0ceb8c51b15478c9d152bf17c607
+      internalID: 782753404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483a38cb328c65459a5a7f69cccd1f8
+      internalID: 1899189329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 440
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde30288fcf2964b975b61f46dcefaf
+      internalID: -695354835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6f3905e7f41146b44d646b14f7ff8
+      internalID: -1222433618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6dc4eb4d1fc894baa1acca8b20c651
+      internalID: -613354859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 440
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc406e6fff60342b3b23c3b6be6d45
+      internalID: -1536599269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 430
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac652a2037c5d459f5def4c56db909
+      internalID: -204121517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 439
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f90fa1f2d0b3a4e8459cf1a76ffed1
+      internalID: -1844144553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 440
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca28c92c68d0e494982e97d2c2ffd0ba
+      internalID: -1592187501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67578d69a59409429dd915ef1f5abc8
+      internalID: 980223091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 440
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c12d41818db9429bb4c50c99dcb4b
+      internalID: 714110475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99531ced4dc642f4eb5eaca3bd6e04f7
+      internalID: -1147209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5413c16677bee4997423e6bd55cff3
+      internalID: 1995423500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 439
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be38a80dfd42e469d5b64592578c4f
+      internalID: -814291078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 440
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057fa03cbfd4fc42a6bfe9c20e3c8cf
+      internalID: -1150212459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 430
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b297738f24d24a80bdcd4ea3da7e8
+      internalID: -404105751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e64e3eb6fdeb947811ea1780b6b7bd
+      internalID: -1778909903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 440
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e59bbbcc8dde2488d042cc964b8d92
+      internalID: 208633500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 439
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5928e39645c325041b75864f0034b488
+      internalID: 332924144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 440
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d18fb63b738ac4cae429d0cb57471b
+      internalID: -1784936719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 439
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b241d67357b74285cc393405157a8
+      internalID: 411145390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 439
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a68c60572a964fb47d35f1449eecb
+      internalID: 976772922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 440
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6885c5eb5d10578469e6dbfa5e691946
+      internalID: 1983668432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 430
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72437975d1e33b945aea4af278f2905e
+      internalID: 827241992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_00
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 311
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dcd2bbcb3c4fc45ae4cacd56b5eabf
+      internalID: -155999327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 311
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f1e379d28678642aa06e816b5280cf
+      internalID: 756965359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 310
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a77b1f63c42fa468cacdc880fbf6ff
+      internalID: -1236588323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 311
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b03dc42839c0d4cb0cd707e0600650
+      internalID: -1364386578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 311
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd9b7d544bac4241ae0e17b0ef1be32
+      internalID: -1899955173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 313
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e954571995782cf448dbe48f67020e1d
+      internalID: 1586066973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 316
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7180a436fd59d0f4b94be6c2d763a772
+      internalID: -435594354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 329
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a722de074711e4a9e8579236cdda58
+      internalID: 1148904366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 330
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef927176f02d5d043beae16ed7779b3e
+      internalID: -360045357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 330
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8a73c3d9827741a2fac7eefa0cd3e
+      internalID: -1099238721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 329
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906177662299a1b4da5f2d372ee1febe
+      internalID: -2023132180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 330
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1ae2f5fff3b3b45b685d415d012c8f
+      internalID: -758602632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Attack_05
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 330
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efbbca909a08be4d9ffe73e9a61d2b4
+      internalID: 2111005152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_R_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 311
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b5fee57048494898f4dc5e2dbed7b
+      internalID: 469435898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4320fad30dc5e541b96f32f6d5943d5
+      internalID: 1952489260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 209
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a77cbb3485c74abe522a42364acf3
+      internalID: 1680439188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 210
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6203bf302720d1f4a8b5e6d06e0659e9
+      internalID: -656066360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 209
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e6b4147f68758418aef1c2ba43a1c0
+      internalID: -1683988203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 209
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7f9ab467a3144b958285d2c39ec0a
+      internalID: 1673898091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 210
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a456390caa6fe438c08a4948d5a85c
+      internalID: -1777555673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 209
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343cca4a669c3e54dbbb33dac0421a10
+      internalID: 966552828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 203
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae6830874f1af4e8b27dc447dbbe4e
+      internalID: -1305925436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 210
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce6d781d7e1e54dbd5b4874f07805f
+      internalID: -2123688195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 209
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466bbede5ada3a14c9003f7551412f9b
+      internalID: -533868808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 210
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7e7ffa9d1c85a4187243c450645e17
+      internalID: 1097950505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 210
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134494daf34fdc04381791606ae49451
+      internalID: -1777843549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 210
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f7ef9736869048929b93ae53b7ed8
+      internalID: 823385117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 209
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff5f58021e6764e804f2835e19642a
+      internalID: -1442408120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 210
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77748f51e21c71478507fba3a109814
+      internalID: 767181525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 210
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2cfb83b9936264e81e7e41acd74cbb
+      internalID: 1167368291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 203
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10841cb21e09f444a8ef0678d838b1a0
+      internalID: 529745139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 210
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9dcc948bcc7d346a78b8b93823fe4d
+      internalID: -1332904619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 209
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e89f9853418424eae2862dd797c094
+      internalID: -1433528681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 210
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7deb4c19a62a84140b4ae2a290dbd7e7
+      internalID: 13757840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 209
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f1d169ccba87845927d6fe433298b5
+      internalID: 1754117404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 209
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71607050412ebd648b2a71967a18e9fa
+      internalID: 2004250920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 210
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06349d305f14f469b02a35edf5ce3a
+      internalID: -358525612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 209
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674ff3e515b5e342aaaa8142d42d9c8
+      internalID: -2107241956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 203
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c29162b3e362a458b954aebca54f03
+      internalID: 2054274566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 210
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5149c6748a40394418fb3706dc17379c
+      internalID: 759270745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 209
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742369f578d81e741bb2b7205226e7b1
+      internalID: 891725596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 209
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d00d701b4e0f64386888538bf1415f
+      internalID: 1374145028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 209
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc14fd20bcdc74a8ec95399cd73f04
+      internalID: 878011460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 209
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1547389a177d634e93e5aed1e973963
+      internalID: 1568070898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 210
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5370f0703a57f444a0b2cf3f3e2321a
+      internalID: 2099255844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 210
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef702c0a168c7b44bfe2e1d34839bd3
+      internalID: -1950591348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 209
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341b85cf7ebafb42b7d223f0ce954f8
+      internalID: 1468866825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 210
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0bf2608df7c054d918595163997fc3
+      internalID: -1141534189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 210
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240caef4fd6193408f0d3e73ef8ac19
+      internalID: 1033905982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 203
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d499fd447e585049adbd767aed1c3a6
+      internalID: -1022851767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 210
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a1c7222b0f174bacd3ff11c790f31
+      internalID: 1230196255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 209
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901c49ce9ec6857498a3882540f729cb
+      internalID: 1807017253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 210
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991347114891d374391b463591b67cc4
+      internalID: -1720286113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 209
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e55d8cc9d53e24eb28cd273242f5e1
+      internalID: -1279840376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 209
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b5aee4c3b3f244ae0a491245bdf28
+      internalID: 1599485249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 210
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d17889d8717d4aabf6ee1faaca6c0
+      internalID: -1733459934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 209
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789276ca331bec4291d878d3f2089ed
+      internalID: -613899613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 203
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef37785e2bd654484ed8950695ae3c
+      internalID: -2054258989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 210
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fddcd880c5c514baf806710daf924c
+      internalID: -386059864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 209
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e8f576d30520408d15d3e02af7e05
+      internalID: -1189325742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_180
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 210
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98300e651941449b638a2d9066e3a5
+      internalID: -1541858011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_181
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 209
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f2adb7366200b4981058154224203f
+      internalID: -671269397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_182
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 210
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36dd16913306ed49b2b2b17c67eae16
+      internalID: -928369018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_183
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 209
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce8a0eb9a3cc1a49a377359c36a0328
+      internalID: -2053230996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_184
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 210
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d26bd9d2ca74f47945b611a97a743e
+      internalID: -554611179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_185
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 210
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26836503768e8c48ac41a424edb6f3c
+      internalID: -152463626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_CoC_Sprite_186
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 203
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3dd3d6524263b4aa545e21c5223c7f
+      internalID: -685092756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_00
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 94
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b99a380deb8b3744ac974310cd0be3f
+      internalID: 1216401489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 94
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046256d5175ae664da983504a3db6bae
+      internalID: -1022306518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 94
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9f28deb98c844bae96f81879aa3bb
+      internalID: 217829628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 95
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265109601f69f854cb30500bde050bbb
+      internalID: 767388026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 97
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff7455a1840d845b67ab2a72439918
+      internalID: 6711025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 94
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ee1f59dd0115b47a7943f4b8a41c3f
+      internalID: 2077019419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 95
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208f708f4d5d704ba0d29735245c2e4
+      internalID: -171776333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Attack_00
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 91
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839159ca94a3ab4ea2e94513e7c7b8c
+      internalID: 1583622011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Attack_01
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 89
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34541403eb2c722488252211bb58b750
+      internalID: -950876910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Attack_02
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 77
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41440bf8939c81440af80b136e7732b0
+      internalID: 397294723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Attack_03
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 85
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf8f39c47c35b4a81b8389175c7430
+      internalID: -544960563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Attack_04
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 96
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee9602f5a0005b4d9602ff41d43b7af
+      internalID: -1760543403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Attack_05
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 94
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15cccf33c5ab3e4aa02e652f84f2d1d
+      internalID: -1389634175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barbaro_D_Idle_00
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 93
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d088e64914639344facd020e4984a38f
+      internalID: -556052049
       vertices: []
       indices: 
       edges: []
@@ -414,13 +4341,200 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Barbaro_CoC_Sprite_0: -1066571496
+      Barbaro_CoC_Sprite_1: 166568137
+      Barbaro_CoC_Sprite_10: 1867886172
+      Barbaro_CoC_Sprite_100: -613354859
+      Barbaro_CoC_Sprite_101: -1536599269
+      Barbaro_CoC_Sprite_102: -204121517
+      Barbaro_CoC_Sprite_103: -1844144553
+      Barbaro_CoC_Sprite_104: -1592187501
+      Barbaro_CoC_Sprite_105: 980223091
+      Barbaro_CoC_Sprite_106: 714110475
+      Barbaro_CoC_Sprite_107: -1147209124
+      Barbaro_CoC_Sprite_108: 1995423500
+      Barbaro_CoC_Sprite_109: -814291078
+      Barbaro_CoC_Sprite_11: 1258898785
+      Barbaro_CoC_Sprite_110: -1150212459
+      Barbaro_CoC_Sprite_111: -404105751
+      Barbaro_CoC_Sprite_112: -1778909903
+      Barbaro_CoC_Sprite_113: 208633500
+      Barbaro_CoC_Sprite_114: 332924144
+      Barbaro_CoC_Sprite_115: -1784936719
+      Barbaro_CoC_Sprite_116: 411145390
+      Barbaro_CoC_Sprite_117: 976772922
+      Barbaro_CoC_Sprite_118: 1983668432
+      Barbaro_CoC_Sprite_119: 827241992
+      Barbaro_CoC_Sprite_12: 1041862201
+      Barbaro_CoC_Sprite_13: 850209250
+      Barbaro_CoC_Sprite_134: 1952489260
+      Barbaro_CoC_Sprite_135: 1680439188
+      Barbaro_CoC_Sprite_136: -656066360
+      Barbaro_CoC_Sprite_137: -1683988203
+      Barbaro_CoC_Sprite_138: 1673898091
+      Barbaro_CoC_Sprite_139: -1777555673
+      Barbaro_CoC_Sprite_14: -221814205
+      Barbaro_CoC_Sprite_140: 966552828
+      Barbaro_CoC_Sprite_141: -1305925436
+      Barbaro_CoC_Sprite_142: -2123688195
+      Barbaro_CoC_Sprite_143: -533868808
+      Barbaro_CoC_Sprite_144: 1097950505
+      Barbaro_CoC_Sprite_145: -1777843549
+      Barbaro_CoC_Sprite_146: 823385117
+      Barbaro_CoC_Sprite_147: -1442408120
+      Barbaro_CoC_Sprite_148: 767181525
+      Barbaro_CoC_Sprite_149: 1167368291
+      Barbaro_CoC_Sprite_15: -1868310573
+      Barbaro_CoC_Sprite_150: 529745139
+      Barbaro_CoC_Sprite_151: -1332904619
+      Barbaro_CoC_Sprite_152: -1433528681
+      Barbaro_CoC_Sprite_153: 13757840
+      Barbaro_CoC_Sprite_154: 1754117404
+      Barbaro_CoC_Sprite_155: 2004250920
+      Barbaro_CoC_Sprite_156: -358525612
+      Barbaro_CoC_Sprite_157: -2107241956
+      Barbaro_CoC_Sprite_158: 2054274566
+      Barbaro_CoC_Sprite_159: 759270745
+      Barbaro_CoC_Sprite_16: 1585582829
+      Barbaro_CoC_Sprite_160: 891725596
+      Barbaro_CoC_Sprite_161: 1374145028
+      Barbaro_CoC_Sprite_162: 878011460
+      Barbaro_CoC_Sprite_163: 1568070898
+      Barbaro_CoC_Sprite_164: 2099255844
+      Barbaro_CoC_Sprite_165: -1950591348
+      Barbaro_CoC_Sprite_166: 1468866825
+      Barbaro_CoC_Sprite_167: -1141534189
+      Barbaro_CoC_Sprite_168: 1033905982
+      Barbaro_CoC_Sprite_169: -1022851767
+      Barbaro_CoC_Sprite_17: -1128849742
+      Barbaro_CoC_Sprite_170: 1230196255
+      Barbaro_CoC_Sprite_171: 1807017253
+      Barbaro_CoC_Sprite_172: -1720286113
+      Barbaro_CoC_Sprite_173: -1279840376
+      Barbaro_CoC_Sprite_174: 1599485249
+      Barbaro_CoC_Sprite_175: -1733459934
+      Barbaro_CoC_Sprite_176: -613899613
+      Barbaro_CoC_Sprite_177: -2054258989
+      Barbaro_CoC_Sprite_178: -386059864
+      Barbaro_CoC_Sprite_179: -1189325742
+      Barbaro_CoC_Sprite_18: 1950899501
+      Barbaro_CoC_Sprite_180: -1541858011
+      Barbaro_CoC_Sprite_181: -671269397
+      Barbaro_CoC_Sprite_182: -928369018
+      Barbaro_CoC_Sprite_183: -2053230996
+      Barbaro_CoC_Sprite_184: -554611179
+      Barbaro_CoC_Sprite_185: -152463626
+      Barbaro_CoC_Sprite_186: -685092756
+      Barbaro_CoC_Sprite_19: 1187920304
+      Barbaro_CoC_Sprite_2: 1280652431
+      Barbaro_CoC_Sprite_20: 1203767821
+      Barbaro_CoC_Sprite_21: 1487932072
+      Barbaro_CoC_Sprite_22: -522923778
+      Barbaro_CoC_Sprite_23: -1918899113
+      Barbaro_CoC_Sprite_24: -1533087919
+      Barbaro_CoC_Sprite_25: 1960964320
+      Barbaro_CoC_Sprite_26: 1325681446
+      Barbaro_CoC_Sprite_27: 294400673
+      Barbaro_CoC_Sprite_28: 70841231
+      Barbaro_CoC_Sprite_29: -1149601658
+      Barbaro_CoC_Sprite_3: -1463514722
+      Barbaro_CoC_Sprite_30: 814034673
+      Barbaro_CoC_Sprite_31: 1358881840
+      Barbaro_CoC_Sprite_32: 1224930860
+      Barbaro_CoC_Sprite_33: -979080831
+      Barbaro_CoC_Sprite_34: 1183710007
+      Barbaro_CoC_Sprite_35: 61712002
+      Barbaro_CoC_Sprite_36: 1216304409
+      Barbaro_CoC_Sprite_37: -479533919
+      Barbaro_CoC_Sprite_38: 454929594
+      Barbaro_CoC_Sprite_39: -797560258
+      Barbaro_CoC_Sprite_4: -988481831
+      Barbaro_CoC_Sprite_40: 804001306
+      Barbaro_CoC_Sprite_41: -1028382130
+      Barbaro_CoC_Sprite_42: 595080641
+      Barbaro_CoC_Sprite_43: -1043790075
+      Barbaro_CoC_Sprite_44: -550048571
+      Barbaro_CoC_Sprite_45: -520602705
+      Barbaro_CoC_Sprite_46: 930980929
+      Barbaro_CoC_Sprite_5: -1993257257
+      Barbaro_CoC_Sprite_6: 877471699
+      Barbaro_CoC_Sprite_61: 878561675
+      Barbaro_CoC_Sprite_62: 2087233663
+      Barbaro_CoC_Sprite_63: -287844250
+      Barbaro_CoC_Sprite_64: -1444232046
+      Barbaro_CoC_Sprite_65: -1739383564
+      Barbaro_CoC_Sprite_66: 171763145
+      Barbaro_CoC_Sprite_67: 463366923
+      Barbaro_CoC_Sprite_68: 2106233390
+      Barbaro_CoC_Sprite_69: -1656982217
+      Barbaro_CoC_Sprite_7: -636433379
+      Barbaro_CoC_Sprite_70: -875807570
+      Barbaro_CoC_Sprite_71: 1631518030
+      Barbaro_CoC_Sprite_72: 484617747
+      Barbaro_CoC_Sprite_73: -1382488809
+      Barbaro_CoC_Sprite_74: -1623181234
+      Barbaro_CoC_Sprite_75: 241615864
+      Barbaro_CoC_Sprite_76: 103852083
+      Barbaro_CoC_Sprite_77: -733705085
+      Barbaro_CoC_Sprite_78: -1351550631
+      Barbaro_CoC_Sprite_79: 1863980548
+      Barbaro_CoC_Sprite_8: -559386709
+      Barbaro_CoC_Sprite_80: 1559961331
+      Barbaro_CoC_Sprite_81: -1478834005
+      Barbaro_CoC_Sprite_82: 1678489877
+      Barbaro_CoC_Sprite_83: -1617290087
+      Barbaro_CoC_Sprite_84: -969030571
+      Barbaro_CoC_Sprite_85: 2005291625
+      Barbaro_CoC_Sprite_86: -195891357
+      Barbaro_CoC_Sprite_87: -1227576764
+      Barbaro_CoC_Sprite_88: -751799181
+      Barbaro_CoC_Sprite_89: -751388963
+      Barbaro_CoC_Sprite_9: -1581164417
+      Barbaro_CoC_Sprite_90: -1945014746
+      Barbaro_CoC_Sprite_91: -556024445
+      Barbaro_CoC_Sprite_92: 263506917
+      Barbaro_CoC_Sprite_93: -1404193395
+      Barbaro_CoC_Sprite_94: 1709599305
+      Barbaro_CoC_Sprite_95: 1936273640
+      Barbaro_CoC_Sprite_96: 782753404
+      Barbaro_CoC_Sprite_97: 1899189329
+      Barbaro_CoC_Sprite_98: -695354835
+      Barbaro_CoC_Sprite_99: -1222433618
+      Barbaro_D_Attack_00: 1583622011
+      Barbaro_D_Attack_01: -950876910
+      Barbaro_D_Attack_02: 397294723
+      Barbaro_D_Attack_03: -544960563
+      Barbaro_D_Attack_04: -1760543403
+      Barbaro_D_Attack_05: -1389634175
+      Barbaro_D_Idle_00: -556052049
+      Barbaro_D_Walk_00: 1216401489
+      Barbaro_D_Walk_01: -1022306518
+      Barbaro_D_Walk_02: 217829628
+      Barbaro_D_Walk_03: 767388026
+      Barbaro_D_Walk_04: 6711025
+      Barbaro_D_Walk_05: 2077019419
+      Barbaro_D_Walk_06: -171776333
+      Barbaro_R_Attack_00: 1148904366
+      Barbaro_R_Attack_01: -360045357
+      Barbaro_R_Attack_02: -1099238721
+      Barbaro_R_Attack_03: -2023132180
+      Barbaro_R_Attack_04: -758602632
+      Barbaro_R_Attack_05: 2111005152
+      Barbaro_R_Idle_00: 469435898
+      Barbaro_R_Walk_00: -155999327
+      Barbaro_R_Walk_01: 756965359
+      Barbaro_R_Walk_02: -1236588323
+      Barbaro_R_Walk_03: -1364386578
+      Barbaro_R_Walk_04: -1899955173
+      Barbaro_R_Walk_05: 1586066973
+      Barbaro_R_Walk_06: -435594354
       Barbaro_U_Attack_00: 1856283915
       Barbaro_U_Attack_01: -211020532
       Barbaro_U_Attack_02: -1804953703
       Barbaro_U_Attack_03: 1470201743
       Barbaro_U_Attack_04: -671934300
       Barbaro_U_Attack_05: -184730402
-      Barbaro_U_Idle_01: -29412240
+      Barbaro_U_Idle_00: -1557370584
       Barbaro_U_Walk_00: -1986965974
       Barbaro_U_Walk_01: -1774247230
       Barbaro_U_Walk_02: -1148855303
