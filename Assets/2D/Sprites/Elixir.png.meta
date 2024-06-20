@@ -1,0 +1,2393 @@
+fileFormatVersion: 2
+guid: 7b963b4906b12ad409cfa62adffbff62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elixir_L01_01
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1785
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117fdb21dda61994ca4e80b90e915ba3
+      internalID: -1718512420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L01_02
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1786
+        width: 130
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd165bf721e2e4d91e27901122042b
+      internalID: -964134437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1839
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd91c20e254efc043a7af1e08c5f2c2f
+      internalID: -1110597228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L01_03
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1788
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a53baf4acbf34db81a99f8596a9b3
+      internalID: -1849717062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L01_04
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1786
+        width: 130
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580d507bb2443a48ad925d7ad4568dd
+      internalID: 1839914819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L01_05
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1786
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd9ed2e92ba3134c8138eb8eaca92e1
+      internalID: 1717872375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1847
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56406c56e99187d46a740bffb6f2d234
+      internalID: -1281584390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_7
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1824
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd080e64746c4b4cb2ace9dcb81da38
+      internalID: -1348335915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1813
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3374cbf110594e92c11550d5fa4c3
+      internalID: 1013233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1814
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d741af89e7e1241bcb13d4c90e2157
+      internalID: 235721300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_10
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1814
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7917670738b6334393275918c625367
+      internalID: 181720201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_11
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1814
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7dd6878ed66e94a9847bc920ad06b8
+      internalID: 2116652967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_12
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1814
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a44a39136d8549bf71e83ca33f7b2
+      internalID: -397034577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_13
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1786
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b5509fa60a1f1489d4fc40c781742f
+      internalID: 875215348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L02_01
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1535
+        width: 252
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3099586937253409b6277fde1f5d93
+      internalID: 812563988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1564
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98493e26bb1b4e44a9567406b8d1c791
+      internalID: 248723319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L02_02
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1535
+        width: 252
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a85ac5bb8f643459316331e1db1bc4
+      internalID: -1362146932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1564
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49fd56466ed9b4682dc79cceb8a73d
+      internalID: 1542868520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L02_03
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1535
+        width: 252
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76245fb80fc57c241b0db07b9d1c3e71
+      internalID: -804451521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_19
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1564
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2457136a505c147ad6c8ad1814ee8d
+      internalID: 385113393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L02_04
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1536
+        width: 252
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0237170075854d44ea0493e9d4cc5e27
+      internalID: 667438764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_21
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1565
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca4b8fbffd3454693b68cbb40045d6
+      internalID: -1104429908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L02_05
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1536
+        width: 252
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0689c2d6b0a0f1442826bcdeca366c19
+      internalID: 880952357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_23
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1565
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9baa604546f9df4c8a301af4aa82b18
+      internalID: -1178718428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_24
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1531
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada5b750878d92469b775d8cc7fdbd7
+      internalID: -1557461403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_25
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1531
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f53273058172284589003d36c38d836
+      internalID: -698861999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L03_01
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1241
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bbfc56c8a75314aabbb9dad6903468
+      internalID: -734032357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L03_02
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1241
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae4a616aba1034189040725fc08697
+      internalID: -1567134120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1294
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01646f4a80c6a4c9562cde3015111e
+      internalID: -1582916013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L03_03
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1241
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9468d576119a34689cf27f7e969235
+      internalID: -88914704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L03_04
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1241
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d366f39281e724896ca91c532b1c8d
+      internalID: 1358575989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L03_05
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1243
+        width: 231
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa06405803dbc47bb330cb59714da5
+      internalID: -1668055661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_32
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1296
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a454839040815e40b60ab5f6cd8b593
+      internalID: -1935080541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_33
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1279
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafa081e66d2cf94e99d3cce7a5a7c95
+      internalID: 1803259323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1269
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca4f75f773613640a3ed7eb69de9fdf
+      internalID: 191903809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1269
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ddbf52dbe8fa4428a05b2e93ce3465
+      internalID: 1335254625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_36
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1269
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13165e6555c04ae438780aea0d31215d
+      internalID: 434137055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_37
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1269
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8138f6c2cf9864d8486658e3afa9a7
+      internalID: 318110948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_38
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1269
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10aea4fe755dce42a6a18bac06ee4de
+      internalID: -1803545559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_39
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1241
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90af48c123708e4da11d9f98a0ad200
+      internalID: 1122413174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L04_01
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 918
+        width: 257
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051b79fbc335c745b8e4a533f2eb5ca
+      internalID: -1310559674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe407365374efd647abbaf5c87169998
+      internalID: -376983245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L04_02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 918
+        width: 257
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143d8440602d654dbca37f12a80151d
+      internalID: 115828259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_43
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c46e3bdfabcbf4e8b8ac3ad594c04c
+      internalID: 515987398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L04_03
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 918
+        width: 257
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d0826c8ca49c41b63c3498d62c597
+      internalID: 1390816482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_45
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a157d1f75dc8794a95ff3f875a9952b
+      internalID: 342819082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L04_04
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 918
+        width: 257
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb3ff0274a2b2419eb2a8fa096bde0
+      internalID: -1217311392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_47
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e2ee2fa7401f4a9fd04df6175d62c
+      internalID: 1317240116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_L04_05
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 916
+        width: 257
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb5f0c978000f449e17dade77d043b
+      internalID: -333394872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_49
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1004
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f26ed0a31e16449abb49e420cab47
+      internalID: -128935437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_50
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 916
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c287eef5fa7ad5418c6fcac45ab98e3
+      internalID: -1663703041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L06_01
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 636
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586201f8d0ebfa4797f64b22327302c
+      internalID: -1891398634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L09_01
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 642
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168478483bc28674a81626aeb07851f3
+      internalID: -485489577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_53
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 765
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8e08a5acb96044b9f4030ec8e2b967
+      internalID: -1664819224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L01_01
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 655
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ff2bf831bb5224b8c8da4cee7c6d6c
+      internalID: -1414514006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L02_01
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 653
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05adeafb799e56c4e86fb2ca1d877e46
+      internalID: -1415641984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L03_01
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 652
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaa8d60fe1ee4c4ea47afaa76f1b557
+      internalID: 449270010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L04_01
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 649
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb4c57176db64549a5093bbcbe7a338
+      internalID: 2066790547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L05_01
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 647
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3684ef5b6a5fb5e4ab869e5ffce4c1ae
+      internalID: -1217670172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L07_01
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 640
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4590e8f9fdeac434eadb19e8a30617f3
+      internalID: -447808121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L08_01
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 646
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5dbaef6c06dcf46b2d7576e16171ed
+      internalID: 102476780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L10_01
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 635
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156250363543044448f49009b3d528db
+      internalID: 57634161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L01_02
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 527
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0dd516c885a18409dd1acbe872ff08
+      internalID: -615130869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L02_02
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 521
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d908024ff397b4cb66ff0e20211a9b
+      internalID: -1283588419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L03_02
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 525
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa815f477dc364ba2cf19cb259e829
+      internalID: -2087204351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L04_02
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 521
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78a248131afc04d9e8f8ccd3947f72
+      internalID: -438795798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L05_02
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 519
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e56f2a2f4cc9043886dd19a27e351a
+      internalID: 34737203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L06_02
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 512
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284770ae8c59814abc999fbe9489db6
+      internalID: 393106779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L07_02
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 513
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e089592f054fd49814d53eee7a00e5
+      internalID: -666981335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L08_02
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 518
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4313100d0d950cf479e5852d121b27c7
+      internalID: -1232816522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L09_02
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 513
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ab0b11393511468ad6b8d45329a0b
+      internalID: 2026174573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L10_02
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 508
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e5a1b3bb417084280d42341be010ea
+      internalID: 380119591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L01_03
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 399
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544cd95fdd8911642bdc4cc90cfa7b37
+      internalID: 1696801222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L02_03
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 397
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23960bc7900e2114b96817118ccc2c70
+      internalID: 1329899076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L03_03
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 397
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd5d2c5455164e4e8a420a8684169f3
+      internalID: -560089729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L04_03
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 393
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c34f679c0e6174a9cbe752454fca48
+      internalID: 1988495842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L05_03
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 391
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370d08dfaf563b4cba1591910f8fa0b
+      internalID: -1891822006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L06_03
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 384
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef66d9e2ac83c574bab7e55fae481e58
+      internalID: -994266431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L07_03
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 385
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f768c6e9c2b2294698c5bd07cac735a
+      internalID: 1905629233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L08_03
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 389
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812afbf43ecd7844dbd1d4b0dd2a54dd
+      internalID: 1360940391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L09_03
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 385
+        width: 122
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b0b8728ed77bb4da90aaeea182da23
+      internalID: 1708694409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L10_03
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 381
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5434d85fd80946b9f5c939cf95646
+      internalID: -1827237394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L01_04
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 272
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce858f11d6bc9146ac3253f3f262605
+      internalID: -1219689552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L02_04
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 267
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96415ca6b752c64fa603a7285d5ef8f
+      internalID: 1645109259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L03_04
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 267
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067eba153117c4a478de5ff455cf7fd7
+      internalID: -418992315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elixir_85
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 363
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f39c4436e12eb44cbf52c0648cfe80c
+      internalID: 1235218864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L04_04
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 269
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381723ba851058b459215e70552462d2
+      internalID: -1048866949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L05_04
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 262
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b18e1a4e9048e4fbf4ed7ec846d58e
+      internalID: 706948042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L06_04
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 252
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf59fc3fce0fe714f9aaabac3332809f
+      internalID: 131396795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L07_04
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 257
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8392e82322d6573498d5ddba0a416e86
+      internalID: 1011409887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L08_04
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 261
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797de1c72951a8b42bd178aeef41d2bb
+      internalID: 1872525589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L09_04
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 257
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3992b4abc956280489636c509e83c65f
+      internalID: -835094430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L01_05
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 143
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f869377c11b0047ac1576dac43fffc
+      internalID: 2020415741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L02_05
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 142
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a158f79350e9c943a768b1ce4df5914
+      internalID: -1993394123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L03_05
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 141
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23845cb8087a204c882310f748e0a6b
+      internalID: 819661135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L04_05
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 137
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c63de3ee998fe48b4f3b207bc7c2c0
+      internalID: -1633890824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L05_05
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 134
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099a1abb5a5478479723bd678cfe441
+      internalID: 1857859556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L06_05
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 127
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a63c4f6dc6a841943bc9a1e80eaba
+      internalID: 921023900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L07_05
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 130
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27d47a1d2cd6024683495be1701ea0b
+      internalID: -1492333074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L08_05
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 133
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e69398a3c45274da0e3cf4b879152d
+      internalID: -562078290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L09_05
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 129
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f37efa0bd5ca5646b4880c66acda0e9
+      internalID: 1494028104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L10_05
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 120
+        width: 120
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f781945ccce54188d7b5406a46495
+      internalID: 1732967009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generador_L10_04
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 256
+        width: 119
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ba2ef5cc104647bba4f7d37bca8bf
+      internalID: -1848377792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f40f4b471f5651c46b80550ea40adc9f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Elixir_10: 181720201
+      Elixir_11: 2116652967
+      Elixir_12: -397034577
+      Elixir_13: 875215348
+      Elixir_15: 248723319
+      Elixir_17: 1542868520
+      Elixir_19: 385113393
+      Elixir_2: -1110597228
+      Elixir_21: -1104429908
+      Elixir_23: -1178718428
+      Elixir_24: -1557461403
+      Elixir_25: -698861999
+      Elixir_28: -1582916013
+      Elixir_32: -1935080541
+      Elixir_33: 1803259323
+      Elixir_34: 191903809
+      Elixir_35: 1335254625
+      Elixir_36: 434137055
+      Elixir_37: 318110948
+      Elixir_38: -1803545559
+      Elixir_39: 1122413174
+      Elixir_41: -376983245
+      Elixir_43: 515987398
+      Elixir_45: 342819082
+      Elixir_47: 1317240116
+      Elixir_49: -128935437
+      Elixir_50: -1663703041
+      Elixir_53: -1664819224
+      Elixir_6: -1281584390
+      Elixir_7: -1348335915
+      Elixir_8: 1013233890
+      Elixir_85: 1235218864
+      Elixir_9: 235721300
+      Elixir_L01_01: -1718512420
+      Elixir_L01_02: -964134437
+      Elixir_L01_03: -1849717062
+      Elixir_L01_04: 1839914819
+      Elixir_L01_05: 1717872375
+      Elixir_L02_01: 812563988
+      Elixir_L02_02: -1362146932
+      Elixir_L02_03: -804451521
+      Elixir_L02_04: 667438764
+      Elixir_L02_05: 880952357
+      Elixir_L03_01: -734032357
+      Elixir_L03_02: -1567134120
+      Elixir_L03_03: -88914704
+      Elixir_L03_04: 1358575989
+      Elixir_L03_05: -1668055661
+      Elixir_L04_01: -1310559674
+      Elixir_L04_02: 115828259
+      Elixir_L04_03: 1390816482
+      Elixir_L04_04: -1217311392
+      Elixir_L04_05: -333394872
+      Generador_L01_01: -1414514006
+      Generador_L01_02: -615130869
+      Generador_L01_03: 1696801222
+      Generador_L01_04: -1219689552
+      Generador_L01_05: 2020415741
+      Generador_L02_01: -1415641984
+      Generador_L02_02: -1283588419
+      Generador_L02_03: 1329899076
+      Generador_L02_04: 1645109259
+      Generador_L02_05: -1993394123
+      Generador_L03_01: 449270010
+      Generador_L03_02: -2087204351
+      Generador_L03_03: -560089729
+      Generador_L03_04: -418992315
+      Generador_L03_05: 819661135
+      Generador_L04_01: 2066790547
+      Generador_L04_02: -438795798
+      Generador_L04_03: 1988495842
+      Generador_L04_04: -1048866949
+      Generador_L04_05: -1633890824
+      Generador_L05_01: -1217670172
+      Generador_L05_02: 34737203
+      Generador_L05_03: -1891822006
+      Generador_L05_04: 706948042
+      Generador_L05_05: 1857859556
+      Generador_L06_01: -1891398634
+      Generador_L06_02: 393106779
+      Generador_L06_03: -994266431
+      Generador_L06_04: 131396795
+      Generador_L06_05: 921023900
+      Generador_L07_01: -447808121
+      Generador_L07_02: -666981335
+      Generador_L07_03: 1905629233
+      Generador_L07_04: 1011409887
+      Generador_L07_05: -1492333074
+      Generador_L08_01: 102476780
+      Generador_L08_02: -1232816522
+      Generador_L08_03: 1360940391
+      Generador_L08_04: 1872525589
+      Generador_L08_05: -562078290
+      Generador_L09_01: -485489577
+      Generador_L09_02: 2026174573
+      Generador_L09_03: 1708694409
+      Generador_L09_04: -835094430
+      Generador_L09_05: 1494028104
+      Generador_L10_01: 57634161
+      Generador_L10_02: 380119591
+      Generador_L10_03: -1827237394
+      Generador_L10_04: -1848377792
+      Generador_L10_05: 1732967009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
