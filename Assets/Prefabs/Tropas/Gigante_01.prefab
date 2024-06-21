@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6781288588167001560}
   - component: {fileID: 9143336639756426339}
   - component: {fileID: 908335668154591319}
+  - component: {fileID: 3127257956486139846}
   m_Layer: 0
   m_Name: Gigante_01
   m_TagString: Untagged
@@ -78,6 +79,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!210 &3127257956486139846
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7483314123179973351}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!1 &8913928288529579095
 GameObject:
   m_ObjectHideFlags: 0
@@ -150,7 +163,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_Sprite: {fileID: 1981740325, guid: c1db95861fdac524380a928ca0ef97c6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
