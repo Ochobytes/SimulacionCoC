@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 95c044be38633c24aa9c3cab84aa03a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edificios_0
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1111
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a7913cba7f7246b20efe9fa4bed52
+      internalID: -1614909374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_1
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1110
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a502d86830af39e4f89cf70e9b0b2555
+      internalID: -1625648237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aldea_01
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 946
+        width: 159
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d3e202da0c47b4f8d1e5832cde58b8
+      internalID: 83507478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aldea_02
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 941
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff2a817642dfa47b8a3875301a94cc
+      internalID: -1271542760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aldea_03
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 938
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe036b16930637841881c360f5c7ea1e
+      internalID: -1867404056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aldea_04
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 929
+        width: 175
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55fda8fcc8d3c84597f27a370023bef
+      internalID: -1265470147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aldea_05
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 930
+        width: 165
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6b2177fa1af244f84f6a9d278970f4
+      internalID: 1006056732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clan_01
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 956
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d818f61ba91c324980ae1195cee1818
+      internalID: 692210279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_8
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1084
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f67d2f528bb737469377682393eb6f6
+      internalID: 929816212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clan_00
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 970
+        width: 132
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d6949977ca074f84ebaee10ea0f0d
+      internalID: 1421958328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_2x2
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 982
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104c61a1a91fa374b898bf693d31b63b
+      internalID: -623811469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_2x2
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 983
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb036caca80f6a498f3d6b25df04ec6
+      internalID: -1595592175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_12
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 895
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38a7c73f6e5bf6449ccc4ea1f8148d2
+      internalID: -636864749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campamento_01
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 797
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674dd34c5a9eda45b51ca3a083ba73c
+      internalID: 1086988049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 862
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f4bc045e97744e93b9c0d542c80e9
+      internalID: -981983097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campamento_02
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 797
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a36d59369520548b533aee0cb014e5
+      internalID: 1818279626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campamento_03
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 792
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c979afca5fd0e42ae472c6fcd6cc5f
+      internalID: 18175423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campamento_04
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 791
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7cdd48c27af27428d5927d5b5be617
+      internalID: 1885295160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campamento_05
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 791
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad52a918fb50a48b9849c2422d59df
+      internalID: 1506712506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuartel_01
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 778
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24eacbbf7c68a343b0501c7b99042c8
+      internalID: -2027568164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuartel_02
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 771
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa5dcabf850664bae536d71cc4519f
+      internalID: -794715631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuartel_03
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 773
+        width: 142
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7fdb9662cd8c46bca5571eca7bea3
+      internalID: -886691703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuartel_04
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 765
+        width: 134
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfadf5e5527b2742ad3d6cd4d56149a
+      internalID: -1964917130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuartel_05
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 762
+        width: 150
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50277f095a1060e4999b3adb9e968172
+      internalID: -447861440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_3x3
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 772
+        width: 164
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7dea157810d4b44886f608a948dd0c
+      internalID: -1963178934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_3x3
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 771
+        width: 168
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4445e0536bded419ee1eabe205cc28
+      internalID: 613671741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_26
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 823
+        width: 5
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ddaf57619ed824a9285b0252cd20db
+      internalID: 524666409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 725
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd33de99743cc441b44bd881db482a8
+      internalID: 846140963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on_09"
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 695
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa5e367b0b07e04cb80b701be297097
+      internalID: 555539411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on_01"
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 683
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd0f9ba1e5f294e9b3143b80b344b3
+      internalID: -470202641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1on_03"
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 679
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7f639e8d4db5448f47fe67f4c5f49
+      internalID: -999103956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_31
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 701
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0697a3aa314e360438a90a0731c31246
+      internalID: 953650519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_4x4
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 558
+        width: 221
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199cbb45da2de79488a32e557b8bf382
+      internalID: -126150545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_4x4
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 558
+        width: 221
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149268510e70ba4dbe619e159a064e1
+      internalID: -1117765317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorio_01
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 584
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278305fe09fa5d64a9adb1de60d468fd
+      internalID: 730297710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorio_02
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 592
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0778fdf95b1c45800ea0803002630
+      internalID: -449059024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_36
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 677
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270659f6eeb9fc448b1c5e8893679954
+      internalID: -1864338363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laboratorio_03
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 592
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c0b58d3e31d164f910ffba0e6c5e5b
+      internalID: -678762260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 677
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ee576a714edd418849bb13b10c232
+      internalID: 249484307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choza_01
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 594
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a8e9b9ee5cdf4ba5baff38a13a8bf
+      internalID: -252555834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1onBase_05"
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 599
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d774d6e328fced42a2935bef67b99be
+      internalID: 754448691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construccion_03
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 598
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4456abcd569bbd41b425685c1ad8e5d
+      internalID: -261725299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1onBase_01"
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 618
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be382ba5fc7db04c8dc4db19e8f654e
+      internalID: -1700016527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1onBase_02"
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 609
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e1b1614b213e54589ea2e542f6997d
+      internalID: 1368905566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1onBase_03"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 599
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd6ce566ff49d4ca2a1de402ba86b1
+      internalID: -1619549940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1onBase_04"
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 608
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f75fc2b00736a439c396bb8fa7a8c2
+      internalID: 1172396091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_46
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 586
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375afb3a08fc8043bbcb808c5b7b0d6
+      internalID: -2035206854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 586
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec8c8336412a744b4b5ad93d8d0dba
+      internalID: 600620823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre_02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 450
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3724230572745f43ad94e481b69f207
+      internalID: 1694217954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre_03
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 450
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec14d5868065d4c98860c9689bc87b
+      internalID: 993513984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre_04
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 447
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f506756e4ea59142990fe7925d23652
+      internalID: -152139975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre_05
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 444
+        width: 99
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e3906afa848214aa573a32bfc7b3bb
+      internalID: 1121466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_52
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 573
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921786338c620d949ab24c22fdc4c3aa
+      internalID: -1941333873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre_01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e05414b4d38948a91579b0fc5cd66
+      internalID: 1550645161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torre_06
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 445
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415ff3e4be4154a44869740b5d7cf157
+      internalID: 62876590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_01
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 380
+        width: 191
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a13ca5aaae804439294352c15049bf
+      internalID: -1598769537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_02
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 407
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76922c32664eca246adf248deb151049
+      internalID: 797990573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construccion_01
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 477
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7732ed886cfac64381f22a0c20e1ff6
+      internalID: 1607057610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construccion_02
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 450
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b027744d8afaef4bb1200c3b5e0cc1c
+      internalID: -586293343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_59
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 281
+        width: 277
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7713c23154134f9dede1717920ded
+      internalID: -1744595377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_60
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 450
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f540e39803d8d545be0351ba68ecbb0
+      internalID: -1233482529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_61
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 437
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6280c2022c43d64ab64498a6c13ac4a
+      internalID: -587547254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_62
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 421
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71b25bacc6ca249ae9028b8cd2280e
+      internalID: 1339341960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_63
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 383
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b864d5b090d8343a62d4440d31eff6
+      internalID: -1536608532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuerdas_4x4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 276
+        width: 205
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62258bdefb7bea41ac9a3a35e432a6e
+      internalID: -701791590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuerdas_3x3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 291
+        width: 149
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a470897b9aa624599dd160d8ae41bb
+      internalID: 879386451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cuerdas_2x2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 308
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e0a09b826f9043904bcacc746b90f
+      internalID: -389680549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_03
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 282
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f1aea2d53b454f8b1b4ccbc858281
+      internalID: -2132561875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_68
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 336
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f29a630d8329f4d82df0ee64d0b5f0
+      internalID: 1251298521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_04
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 282
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193d346395ef2d44a451bb8ceb9ff8d
+      internalID: -583898724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_70
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 315
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47390f7272d39d4fa5eb07c9e2985ba
+      internalID: -1863720006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_71
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 306
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91500a58b972eb446956dc13b9cb7a7c
+      internalID: -1104372597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edificios_72
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a708809b45a60a47aa577e6247b575c
+      internalID: 706149303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Construccion_04
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 456
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98f447123a3464ca048be6ba07d5d4
+      internalID: -1395118343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55ab9d91e98657d4f8eaad7449ffe8c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aldea_01: 83507478
+      Aldea_02: -1271542760
+      Aldea_03: -1867404056
+      Aldea_04: -1265470147
+      Aldea_05: 1006056732
+      Campamento_01: 1086988049
+      Campamento_02: 1818279626
+      Campamento_03: 18175423
+      Campamento_04: 1885295160
+      Campamento_05: 1506712506
+      "Ca\xF1onBase_01": -1700016527
+      "Ca\xF1onBase_02": 1368905566
+      "Ca\xF1onBase_03": -1619549940
+      "Ca\xF1onBase_04": 1172396091
+      "Ca\xF1onBase_05": 754448691
+      "Ca\xF1on_01": -470202641
+      "Ca\xF1on_03": -999103956
+      "Ca\xF1on_09": 555539411
+      Choza_01: -252555834
+      Clan_00: 1421958328
+      Clan_01: 692210279
+      Construccion_01: 1607057610
+      Construccion_02: -586293343
+      Construccion_03: -261725299
+      Construccion_04: -1395118343
+      Cuartel_01: -2027568164
+      Cuartel_02: -794715631
+      Cuartel_03: -886691703
+      Cuartel_04: -1964917130
+      Cuartel_05: -447861440
+      Cuerdas_2x2: -389680549
+      Cuerdas_3x3: 879386451
+      Cuerdas_4x4: -701791590
+      Destruccion_01: -1598769537
+      Destruccion_02: 797990573
+      Destruccion_03: -2132561875
+      Destruccion_04: -583898724
+      Edificios_0: -1614909374
+      Edificios_1: -1625648237
+      Edificios_12: -636864749
+      Edificios_14: -981983097
+      Edificios_26: 524666409
+      Edificios_27: 846140963
+      Edificios_31: 953650519
+      Edificios_36: -1864338363
+      Edificios_38: 249484307
+      Edificios_46: -2035206854
+      Edificios_47: 600620823
+      Edificios_52: -1941333873
+      Edificios_59: -1744595377
+      Edificios_60: -1233482529
+      Edificios_61: -587547254
+      Edificios_62: 1339341960
+      Edificios_63: -1536608532
+      Edificios_68: 1251298521
+      Edificios_70: -1863720006
+      Edificios_71: -1104372597
+      Edificios_72: 706149303
+      Edificios_8: 929816212
+      Grass_2x2: -623811469
+      Grass_3x3: -1963178934
+      Grass_4x4: -126150545
+      Ground_2x2: -1595592175
+      Ground_3x3: 613671741
+      Ground_4x4: -1117765317
+      Laboratorio_01: 730297710
+      Laboratorio_02: -449059024
+      Laboratorio_03: -678762260
+      Torre_01: 1550645161
+      Torre_02: 1694217954
+      Torre_03: 993513984
+      Torre_04: -152139975
+      Torre_05: 1121466593
+      Torre_06: 62876590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
