@@ -65,7 +65,7 @@ public class AdornosEscenario : MonoBehaviour {
         int gema = GameManager.Instance.GetRandomInt(-5, 10);
         textGemas.gameObject.SetActive(gema > 0);
         textGemas.text = $"Gano {gema} gema{(gema > 1 ? ("s") : (""))}";
-        
+
         if (gema > 0)
             GameManager.Instance.gems += gema;
 
@@ -84,7 +84,9 @@ public class AdornosEscenario : MonoBehaviour {
                 renderers[j].color = c;
             }
         }
-        botonEliminar.SetActive(false);
+        if (botonEliminar)
+            botonEliminar.SetActive(false);
+
         yield return new WaitForSeconds(0.5f / GameManager.Instance.Velocidad);
         Destroy(gameObject);
     }

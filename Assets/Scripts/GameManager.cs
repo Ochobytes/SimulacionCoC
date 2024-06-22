@@ -150,31 +150,31 @@ public class GameManager : MonoBehaviour {
         int o = 0;
         int e = 0;
 
-        foreach (var item in edificiosPorNivel) {
+        foreach (var item in FindObjectsOfType<BuildingControl>()) {
             if (item.tipoEdificios == BuildingControl.TipoEdificios.Ayuntamiento) {
-                o += item.prefab.datosUnidad.nivelList[nivelAldea].capacidadOro;
-                e += item.prefab.datosUnidad.nivelList[nivelAldea].capacidadElixir;
+                o += item.datosUnidad.nivelList[nivelAldea].capacidadOro;
+                e += item.datosUnidad.nivelList[nivelAldea].capacidadElixir;
 
             }else if (item.tipoEdificios == BuildingControl.TipoEdificios.AlmacenDeOro) {
-                o += item.prefab.datosUnidad.nivelList[nivelAldea].capacidadOro;
+                o += item.datosUnidad.nivelList[nivelAldea].capacidadOro;
 
             } else if (item.tipoEdificios == BuildingControl.TipoEdificios.MinaDeOro) {
-                o += item.prefab.datosUnidad.nivelList[nivelAldea].capacidadOro;
+                o += item.datosUnidad.nivelList[nivelAldea].capacidadOro;
 
             } else if (item.tipoEdificios == BuildingControl.TipoEdificios.AlmacenDeElixir) {
-                e += item.prefab.datosUnidad.nivelList[nivelAldea].capacidadElixir;
+                e += item.datosUnidad.nivelList[nivelAldea].capacidadElixir;
 
             } else if (item.tipoEdificios == BuildingControl.TipoEdificios.RecolectorDeElixir) {
-                e += item.prefab.datosUnidad.nivelList[nivelAldea].capacidadElixir;
+                e += item.datosUnidad.nivelList[nivelAldea].capacidadElixir;
             }
         }
 
         maxOro = o;
         maxElixir = e;
 
-        sliderOro.value = oro / maxOro;
+        sliderOro.value = (float)oro / (float)maxOro;
         sliderOro.GetComponentInChildren<TextMeshProUGUI>().text = oro.ToString();
-        sliderElixir.value = elixir / maxElixir;
+        sliderElixir.value = (float)elixir / (float)maxElixir;
         sliderElixir.GetComponentInChildren<TextMeshProUGUI>().text = elixir.ToString();
         textGemas.text = "" + gems;
     }
