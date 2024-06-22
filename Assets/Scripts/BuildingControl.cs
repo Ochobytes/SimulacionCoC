@@ -5,6 +5,8 @@ using System.Linq;
 using UnityEditor.AssetImporters;
 using UnityEngine;
 using UnityEngine.Rendering;
+using TMPro;
+using UnityEngine.UI;
 
 [System.Serializable]
 public class DatosNivel {
@@ -23,7 +25,26 @@ public  class DatosUnidad {
 }
 
 public class BuildingControl : MonoBehaviour {
+    public enum TipoEdificios {
+        Ayuntamiento,
+        Cuartel,
+        MinaDeOro,
+        AlmacenDeOro,
+        RecolectorDeElixir,
+        AlmacenDeElixir,
+        Campamento,
+        TorreDeArqueras,
+        Cañón,
+        //Mortero,
+        //TorreTesla,
+        CastilloDelClan,
+        Laboratorio,
+        Choza
+    }
+
     public BuildingPlacement buildingPlacement;
+
+    public TipoEdificios tipoEdificios;
 
     public bool construido = false;
     public bool actualizando = false;
@@ -34,27 +55,70 @@ public class BuildingControl : MonoBehaviour {
 
     public Color ok;
     public Color fail;
+    [Space(20)]
+    public TextMeshProUGUI textNivel;
+    public TextMeshProUGUI textTiempo;
+    public Slider sliderActu;
+    public Slider sliderVida;
+    [Space(15)]
+    public GameObject modelo3D;
+    public GameObject cuerdas;
+    public GameObject destruido;
+    public SpriteRenderer suelo;
+    public SpriteRenderer main;
+    [Space(20)]
 
     public SortingGroup sortingGroup;
     public Collider colliderModelo;
     public Animator animator;
-    public GameObject cuerdas;
-    public GameObject destruido;
 
     public Sprite normal;
     public Sprite tierra;
 
-    public SpriteRenderer suelo;
-    public SpriteRenderer main;
     public Color color;
 
     public DatosUnidad datosUnidad = new();
 
     private bool isValid = true;
 
+    public static string GetRemainingTimeFormatted(float tiempo, float tiempoActualizacion) {
+        float remainingTime = tiempoActualizacion - tiempo;
+
+        if (remainingTime <= 0) {
+            return "0s";
+        }
+
+        TimeSpan timeSpan = TimeSpan.FromSeconds(remainingTime);
+
+        int days = timeSpan.Days;
+        int hours = timeSpan.Hours;
+        int minutes = timeSpan.Minutes;
+        int seconds = timeSpan.Seconds;
+
+        if (days > 0)
+            return $"{days}D {hours}h";
+
+        if (hours > 0)
+            return $"{hours}h {minutes}M";
+
+        if (minutes > 0)
+            return $"{minutes}M {seconds}s";
+
+        return $"{seconds}s";
+    }
+
     private void Awake() {
         if (!buildingPlacement)
             buildingPlacement = FindObjectOfType<BuildingPlacement>();
+
+        if(!sortingGroup)
+            sortingGroup=GetComponent<SortingGroup>();
+
+        if (!colliderModelo)
+            colliderModelo = GetComponent<Collider>();
+
+        if(!animator)
+            animator = GetComponent<Animator>();
 
         if (suelo && normal) {
             suelo.sprite = normal;
@@ -81,6 +145,9 @@ public class BuildingControl : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
+        textNivel.gameObject.SetActive(false);
+        sliderVida.gameObject.SetActive(false);
+
         if (construido)
             Construir(datosUnidad.nivel);
         else
@@ -91,19 +158,31 @@ public class BuildingControl : MonoBehaviour {
     void Update() {
         cuerdas.SetActive(actualizando);
         colliderModelo.isTrigger = moviendo;
+        textNivel.text = $"Nivel {datosUnidad.nivel}";
+
+        textTiempo.gameObject.SetActive(actualizando);
+        sliderActu.gameObject.SetActive(actualizando);
 
         if (!actualizando) {
             tiempo = 0;
             return;
         }
 
+        sliderActu.gameObject.SetActive(true);
+
         tiempo += Time.deltaTime * 1f;
+
+        textTiempo.text = GetRemainingTimeFormatted(tiempo, datosUnidad.nivelList[nivelASubir].tiempoActualizacion);
+
+        sliderActu.value = tiempo / datosUnidad.nivelList[nivelASubir].tiempoActualizacion;
 
         if (tiempo < datosUnidad.nivelList[nivelASubir].tiempoActualizacion) return;
 
         actualizando = false;
 
         SubirNivel(nivelASubir);
+
+        sliderActu.gameObject.SetActive(false);
     }
 
     public void OnTriggerStay(Collider other) {
@@ -188,5 +267,13 @@ public class BuildingControl : MonoBehaviour {
             s.color = c;
         }
         Destroy(s.gameObject);
+    }
+
+    private void OnMouseEnter() {
+        textNivel.gameObject.SetActive(datosUnidad.nivel > 0);
+    }
+
+    private void OnMouseExit() {
+        textNivel.gameObject.SetActive(false);
     }
 }
