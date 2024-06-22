@@ -279,7 +279,7 @@ public class BuildingControl : MonoBehaviour {
             g.transform.localScale = suelo.transform.lossyScale;
             SpriteRenderer s = g.GetComponent<SpriteRenderer>();
             s.sprite = tierra;
-            s.sortingOrder = 0;
+            s.sortingOrder = -1;
             g.SetActive(true);
             StartCoroutine(TierraFade(s));
         }

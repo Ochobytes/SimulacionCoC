@@ -2103,6 +2103,7 @@ GameObject:
   - component: {fileID: 8173482017257939322}
   - component: {fileID: 3859944106089722325}
   - component: {fileID: 5349571606617265600}
+  - component: {fileID: -1057424782087948829}
   m_Layer: 0
   m_Name: Campamento
   m_TagString: edificio
@@ -2253,3 +2254,30 @@ MonoBehaviour:
       vida: 330
       capacidadOro: 0
       capacidadElixir: 0
+--- !u!54 &-1057424782087948829
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9174196709224030688}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

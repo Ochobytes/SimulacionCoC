@@ -35,9 +35,6 @@ public class GameManager : MonoBehaviour {
         }
     }
 
-    // Diccionario para la cantidad máxima de cada tipo de edificio por nivel de aldea
-    public Dictionary<string, int> maxBuildingsPerLevel;
-
     // Constructor para inicializar las variables (puedes agregar más si lo necesitas)
     void Awake() {
         // Configurar el Singleton
@@ -49,7 +46,17 @@ public class GameManager : MonoBehaviour {
         }
     }
 
+    private void Start() {
+        ActualizarListaEdificios();
+    }
+
     void Update() {
 
+    }
+
+    public void ActualizarListaEdificios() {
+        foreach (EdificiosPorNivel item in edificiosPorNivel) {
+            item.CargarEdificios();
+        }
     }
 }
