@@ -1286,13 +1286,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_56
+      name: Adorno_05
       rect:
         serializedVersion: 2
-        x: 431
-        y: 1438
-        width: 227
-        height: 87
+        x: 436
+        y: 1441
+        width: 105
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4856,13 +4856,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_226
+      name: Adorno_06
       rect:
         serializedVersion: 2
-        x: 375
+        x: 380
         y: 940
-        width: 227
-        height: 99
+        width: 110
+        height: 95
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9035,13 +9035,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_425
+      name: Adorno_03
       rect:
         serializedVersion: 2
-        x: 220
-        y: 349
-        width: 121
-        height: 178
+        x: 229
+        y: 369
+        width: 110
+        height: 152
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9833,13 +9833,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_463
+      name: Adorno_01
       rect:
         serializedVersion: 2
-        x: 581
-        y: 243
-        width: 213
-        height: 151
+        x: 698
+        y: 277
+        width: 96
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10673,13 +10673,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_503
+      name: Adorno_02
       rect:
         serializedVersion: 2
-        x: 756
-        y: 177
-        width: 107
-        height: 87
+        x: 769
+        y: 185
+        width: 94
+        height: 72
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10694,12 +10694,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_504
+      name: Adorno_07
       rect:
         serializedVersion: 2
-        x: 864
+        x: 967
         y: 178
-        width: 206
+        width: 96
         height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -10715,7 +10715,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: buildings_505
+      name: Adorno_04
       rect:
         serializedVersion: 2
         x: 1071
@@ -12153,6 +12153,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Adorno_01: -222573845
+      Adorno_02: -756818626
+      Adorno_03: 1046105749
+      Adorno_04: -1204203751
+      Adorno_05: 188456703
+      Adorno_06: -1809979052
+      Adorno_07: 209025820
       Ayuntamiento_01: 490204578
       Ayuntamiento_02: 697209438
       Ayuntamiento_03: -1719625035
@@ -12298,7 +12305,6 @@ TextureImporter:
       buildings_223: 2130952868
       buildings_224: -1722848292
       buildings_225: 300197891
-      buildings_226: -1809979052
       buildings_227: 559121127
       buildings_228: -1256161429
       buildings_229: -162942912
@@ -12518,7 +12524,6 @@ TextureImporter:
       buildings_421: 1494940270
       buildings_422: -871989649
       buildings_423: 467747987
-      buildings_425: 1046105749
       buildings_426: 2015366808
       buildings_427: 1316537836
       buildings_428: -1594094129
@@ -12560,7 +12565,6 @@ TextureImporter:
       buildings_460: 1380463211
       buildings_461: 892533033
       buildings_462: -945353149
-      buildings_463: -222573845
       buildings_464: -1652613492
       buildings_465: -1085238922
       buildings_466: -976230638
@@ -12604,9 +12608,6 @@ TextureImporter:
       buildings_500: -1493524227
       buildings_501: -601655905
       buildings_502: 80420478
-      buildings_503: -756818626
-      buildings_504: 209025820
-      buildings_505: -1204203751
       buildings_506: 185664587
       buildings_507: -1557218878
       buildings_508: 1550181322
@@ -12666,7 +12667,6 @@ TextureImporter:
       buildings_557: -539708548
       buildings_558: 1979229105
       buildings_559: -1452504038
-      buildings_56: 188456703
       buildings_560: 1961162834
       buildings_561: 814457344
       buildings_562: 1560343123

@@ -653,6 +653,7 @@ MonoBehaviour:
     - nivelNecesario: 0
       capacidadMax: 0
       sprite: {fileID: -261725299, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 0
       costoConstruccion: 0
       vida: 0
@@ -661,6 +662,7 @@ MonoBehaviour:
     - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: -1700016527, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 189879138019564555}
       tiempoActualizacion: 10
       costoConstruccion: 250
       vida: 420
@@ -669,6 +671,7 @@ MonoBehaviour:
     - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: 1368905566, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 700331317750280180}
       tiempoActualizacion: 120
       costoConstruccion: 1000
       vida: 470
@@ -677,6 +680,7 @@ MonoBehaviour:
     - nivelNecesario: 3
       capacidadMax: 0
       sprite: {fileID: -1619549940, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 7668108109064425035}
       tiempoActualizacion: 600
       costoConstruccion: 4000
       vida: 520
@@ -685,6 +689,7 @@ MonoBehaviour:
     - nivelNecesario: 3
       capacidadMax: 0
       sprite: {fileID: 1172396091, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 5654366429057014167}
       tiempoActualizacion: 2700
       costoConstruccion: 16000
       vida: 570
@@ -693,6 +698,7 @@ MonoBehaviour:
     - nivelNecesario: 4
       capacidadMax: 0
       sprite: {fileID: 754448691, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 6057877362187629102}
       tiempoActualizacion: 3600
       costoConstruccion: 50000
       vida: 620
@@ -2749,6 +2755,11 @@ SortingGroup:
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_SortAtRoot: 0
+--- !u!1 &700331317750280180 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2462940691899555752, guid: fe5b8d8b7b17ac04ebc02ee33f6079cc, type: 3}
+  m_PrefabInstance: {fileID: 3140711112724525148}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2834846417503915277 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: fe5b8d8b7b17ac04ebc02ee33f6079cc, type: 3}
@@ -2769,5 +2780,10 @@ SortingGroup:
 --- !u!4 &3178614863466092471 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: fe5b8d8b7b17ac04ebc02ee33f6079cc, type: 3}
+  m_PrefabInstance: {fileID: 3140711112724525148}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7668108109064425035 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -4468525553061528041, guid: fe5b8d8b7b17ac04ebc02ee33f6079cc, type: 3}
   m_PrefabInstance: {fileID: 3140711112724525148}
   m_PrefabAsset: {fileID: 0}

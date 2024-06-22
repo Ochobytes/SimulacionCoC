@@ -7,12 +7,14 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using TMPro;
 using UnityEngine.UI;
+using static UnityEditor.Progress;
 
 [System.Serializable]
 public class DatosNivel {
     public int nivelNecesario;
     public float capacidadMax;
     public Sprite sprite;
+    public GameObject modelo3D;
     public float tiempoActualizacion;
     public int costoConstruccion;
     public int vida;
@@ -180,7 +182,7 @@ public class BuildingControl : MonoBehaviour {
 
         sliderActu.gameObject.SetActive(true);
 
-        tiempo += Time.deltaTime * 1f;
+        tiempo += Time.deltaTime * GameManager.Instance.Velocidad;
 
         textTiempo.text = GetRemainingTimeFormatted(tiempo, datosUnidad.nivelList[nivelASubir].tiempoActualizacion);
 
@@ -245,7 +247,15 @@ public class BuildingControl : MonoBehaviour {
     public void SubirNivel(int nivel) {
         if (nivel >= datosUnidad.nivelList.Count) return;
 
+        foreach (var item in datosUnidad.nivelList) {
+            if (item.modelo3D)
+                item.modelo3D.SetActive(false);
+        }
+
         DatosNivel dn = datosUnidad.nivelList[nivel];
+
+        if (dn.modelo3D)
+            dn.modelo3D.SetActive(true);
 
         if (dn.sprite != null)
             main.sprite = dn.sprite;
@@ -286,10 +296,10 @@ public class BuildingControl : MonoBehaviour {
     }
 
     IEnumerator TierraFade(SpriteRenderer s) {
-        yield return new WaitForSeconds(1.5f);
+        yield return new WaitForSeconds(1.5f * GameManager.Instance.Velocidad);
         Color c = s.color;
         for (int i = 10; i >= 0; i--) {
-            yield return new WaitForSeconds(0.075f);
+            yield return new WaitForSeconds(0.075f / GameManager.Instance.Velocidad);
             c.a = i / 10f;
             s.color = c;
         }

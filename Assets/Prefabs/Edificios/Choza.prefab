@@ -573,7 +573,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingPlacement: {fileID: 0}
   tipoEdificios: 11
-  costoRecursoActualizacion: 0
+  costoRecursoActualizacion: 2
   construido: 0
   actualizando: 0
   moviendo: 0
@@ -604,6 +604,7 @@ MonoBehaviour:
     - nivelNecesario: 0
       capacidadMax: 0
       sprite: {fileID: -1395118343, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 0
       costoConstruccion: 0
       vida: 0
@@ -612,8 +613,9 @@ MonoBehaviour:
     - nivelNecesario: 1
       capacidadMax: 1
       sprite: {fileID: -252555834, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 0
-      costoConstruccion: 0
+      costoConstruccion: 250
       vida: 250
       capacidadOro: 0
       capacidadElixir: 0
