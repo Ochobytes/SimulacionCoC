@@ -370,7 +370,7 @@ TextureImporter:
         width: 55
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -391,7 +391,7 @@ TextureImporter:
         width: 51
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,6 +399,27 @@ TextureImporter:
       bones: []
       spriteID: e61a536a72f4f7a4abd827adef952b21
       internalID: -404777371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo_01
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 45
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 18, z: 17, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c9f1889faecf542b1fc1b99e42af8f
+      internalID: 924717002
       vertices: []
       indices: 
       edges: []
@@ -416,6 +437,7 @@ TextureImporter:
     nameFileIdTable:
       Boton_01: 1112034872
       Boton_02: 2023093207
+      Fondo_01: 924717002
       Icono_Elixir: -807664868
       Icono_Gema: -404777371
       Icono_Oro: -1482099178

@@ -168,7 +168,7 @@ public class BuildingControl : MonoBehaviour {
         if (Input.GetMouseButtonDown(1))
             OnMouseRight();
 
-            cuerdas.SetActive(actualizando);
+        cuerdas.SetActive(actualizando);
         colliderModelo.isTrigger = moviendo;
         textNivel.text = $"Nivel {datosUnidad.nivel}";
 
