@@ -651,6 +651,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingPlacement: {fileID: 0}
   tipoEdificios: 7
+  costoRecursoActualizacion: 0
   construido: 0
   actualizando: 0
   moviendo: 0
@@ -682,30 +683,58 @@ MonoBehaviour:
       capacidadMax: 0
       sprite: {fileID: -1395118343, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
       tiempoActualizacion: 0
-    - nivelNecesario: 1
+      costoConstruccion: 0
+      vida: 0
+      capacidadOro: 0
+      capacidadElixir: 0
+    - nivelNecesario: 2
       capacidadMax: 0
       sprite: {fileID: 1550645161, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 10
+      tiempoActualizacion: 60
+      costoConstruccion: 1000
+      vida: 380
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 2
       capacidadMax: 0
       sprite: {fileID: 1694217954, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 20
+      tiempoActualizacion: 900
+      costoConstruccion: 2000
+      vida: 420
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 3
       capacidadMax: 0
       sprite: {fileID: 993513984, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 30
+      tiempoActualizacion: 2700
+      costoConstruccion: 5000
+      vida: 460
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 4
       capacidadMax: 0
       sprite: {fileID: -152139975, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 40
+      tiempoActualizacion: 10800
+      costoConstruccion: 20000
+      vida: 500
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 5
       capacidadMax: 0
       sprite: {fileID: 1121466593, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 50
-    - nivelNecesario: 6
+      tiempoActualizacion: 14400
+      costoConstruccion: 80000
+      vida: 540
+      capacidadOro: 0
+      capacidadElixir: 0
+    - nivelNecesario: 5
       capacidadMax: 0
       sprite: {fileID: 62876590, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 60
+      tiempoActualizacion: 18000
+      costoConstruccion: 150000
+      vida: 580
+      capacidadOro: 0
+      capacidadElixir: 0
 --- !u!1 &3686715436217600537
 GameObject:
   m_ObjectHideFlags: 0

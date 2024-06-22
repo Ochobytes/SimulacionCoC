@@ -2001,6 +2001,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingPlacement: {fileID: 0}
   tipoEdificios: 1
+  costoRecursoActualizacion: 1
   construido: 0
   actualizando: 0
   moviendo: 0
@@ -2032,26 +2033,50 @@ MonoBehaviour:
       capacidadMax: 0
       sprite: {fileID: -1395118343, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
       tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 0
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: -2027568164, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
       tiempoActualizacion: 10
-    - nivelNecesario: 2
+      costoConstruccion: 100
+      vida: 250
+      capacidadOro: 0
+      capacidadElixir: 0
+    - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: -794715631, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 20
-    - nivelNecesario: 3
+      tiempoActualizacion: 60
+      costoConstruccion: 500
+      vida: 290
+      capacidadOro: 0
+      capacidadElixir: 0
+    - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: -886691703, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 30
-    - nivelNecesario: 4
+      tiempoActualizacion: 600
+      costoConstruccion: 2500
+      vida: 330
+      capacidadOro: 0
+      capacidadElixir: 0
+    - nivelNecesario: 2
       capacidadMax: 0
       sprite: {fileID: -1964917130, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 40
-    - nivelNecesario: 5
+      tiempoActualizacion: 3600
+      costoConstruccion: 5000
+      vida: 370
+      capacidadOro: 0
+      capacidadElixir: 0
+    - nivelNecesario: 3
       capacidadMax: 0
       sprite: {fileID: -447861440, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 50
+      tiempoActualizacion: 28800
+      costoConstruccion: 20000
+      vida: 420
+      capacidadOro: 0
+      capacidadElixir: 0
 --- !u!54 &8245876435607693251
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -1079,6 +1079,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingPlacement: {fileID: 0}
   tipoEdificios: 2
+  costoRecursoActualizacion: 1
   construido: 0
   actualizando: 0
   moviendo: 0
@@ -1110,46 +1111,90 @@ MonoBehaviour:
       capacidadMax: 0
       sprite: {fileID: 0}
       tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 0
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 1
-      capacidadMax: 0
+      capacidadMax: 1000
       sprite: {fileID: 0}
       tiempoActualizacion: 10
-    - nivelNecesario: 2
-      capacidadMax: 0
-      sprite: {fileID: 0}
-      tiempoActualizacion: 20
-    - nivelNecesario: 3
-      capacidadMax: 0
-      sprite: {fileID: 0}
-      tiempoActualizacion: 30
-    - nivelNecesario: 4
-      capacidadMax: 0
-      sprite: {fileID: 0}
-      tiempoActualizacion: 40
-    - nivelNecesario: 5
-      capacidadMax: 0
-      sprite: {fileID: 0}
-      tiempoActualizacion: 50
-    - nivelNecesario: 6
-      capacidadMax: 0
+      costoConstruccion: 150
+      vida: 400
+      capacidadOro: 1000
+      capacidadElixir: 0
+    - nivelNecesario: 1
+      capacidadMax: 2000
       sprite: {fileID: 0}
       tiempoActualizacion: 60
-    - nivelNecesario: 7
-      capacidadMax: 0
+      costoConstruccion: 300
+      vida: 440
+      capacidadOro: 2000
+      capacidadElixir: 0
+    - nivelNecesario: 2
+      capacidadMax: 3000
       sprite: {fileID: 0}
-      tiempoActualizacion: 70
-    - nivelNecesario: 8
-      capacidadMax: 0
+      tiempoActualizacion: 240
+      costoConstruccion: 700
+      vida: 480
+      capacidadOro: 3000
+      capacidadElixir: 0
+    - nivelNecesario: 2
+      capacidadMax: 5000
       sprite: {fileID: 0}
-      tiempoActualizacion: 80
-    - nivelNecesario: 9
-      capacidadMax: 0
+      tiempoActualizacion: 600
+      costoConstruccion: 1400
+      vida: 520
+      capacidadOro: 5000
+      capacidadElixir: 0
+    - nivelNecesario: 3
+      capacidadMax: 10000
       sprite: {fileID: 0}
-      tiempoActualizacion: 90
-    - nivelNecesario: 10
-      capacidadMax: 0
+      tiempoActualizacion: 2400
+      costoConstruccion: 3000
+      vida: 560
+      capacidadOro: 10000
+      capacidadElixir: 0
+    - nivelNecesario: 3
+      capacidadMax: 20000
       sprite: {fileID: 0}
-      tiempoActualizacion: 100
+      tiempoActualizacion: 10800
+      costoConstruccion: 7000
+      vida: 600
+      capacidadOro: 2000
+      capacidadElixir: 0
+    - nivelNecesario: 4
+      capacidadMax: 30000
+      sprite: {fileID: 0}
+      tiempoActualizacion: 21600
+      costoConstruccion: 14000
+      vida: 640
+      capacidadOro: 30000
+      capacidadElixir: 0
+    - nivelNecesario: 4
+      capacidadMax: 50000
+      sprite: {fileID: 0}
+      tiempoActualizacion: 21600
+      costoConstruccion: 28000
+      vida: 680
+      capacidadOro: 50000
+      capacidadElixir: 0
+    - nivelNecesario: 5
+      capacidadMax: 75000
+      sprite: {fileID: 0}
+      tiempoActualizacion: 36000
+      costoConstruccion: 56000
+      vida: 720
+      capacidadOro: 75000
+      capacidadElixir: 0
+    - nivelNecesario: 5
+      capacidadMax: 100000
+      sprite: {fileID: 0}
+      tiempoActualizacion: 36000
+      costoConstruccion: 75000
+      vida: 780
+      capacidadOro: 100000
+      capacidadElixir: 0
 --- !u!1 &4806591529277712789
 GameObject:
   m_ObjectHideFlags: 0

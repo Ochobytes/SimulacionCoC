@@ -669,26 +669,50 @@ MonoBehaviour:
       capacidadMax: 0
       sprite: {fileID: 0}
       tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 0
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: 83507478, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 10
-    - nivelNecesario: 2
+      tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 450
+      capacidadOro: 1000
+      capacidadElixir: 1000
+    - nivelNecesario: 1
       capacidadMax: 0
       sprite: {fileID: -1271542760, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 20
-    - nivelNecesario: 3
-      capacidadMax: 0
+      tiempoActualizacion: 10
+      costoConstruccion: 1000
+      vida: 450
+      capacidadOro: 2500
+      capacidadElixir: 2500
+    - nivelNecesario: 2
+      capacidadMax: 2
       sprite: {fileID: -1867404056, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 30
-    - nivelNecesario: 4
-      capacidadMax: 0
+      tiempoActualizacion: 3600
+      costoConstruccion: 4000
+      vida: 1850
+      capacidadOro: 10000
+      capacidadElixir: 10000
+    - nivelNecesario: 3
+      capacidadMax: 4
       sprite: {fileID: -1265470147, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 40
-    - nivelNecesario: 5
-      capacidadMax: 0
+      tiempoActualizacion: 10800
+      costoConstruccion: 25000
+      vida: 2100
+      capacidadOro: 50000
+      capacidadElixir: 50000
+    - nivelNecesario: 4
+      capacidadMax: 8
       sprite: {fileID: 1006056732, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 50
+      tiempoActualizacion: 21600
+      costoConstruccion: 150000
+      vida: 2400
+      capacidadOro: 100000
+      capacidadElixir: 100000
 --- !u!1 &780192641921450078
 GameObject:
   m_ObjectHideFlags: 0

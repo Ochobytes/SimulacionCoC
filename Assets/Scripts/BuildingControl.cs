@@ -14,6 +14,10 @@ public class DatosNivel {
     public float capacidadMax;
     public Sprite sprite;
     public float tiempoActualizacion;
+    public int costoConstruccion;
+    public int vida;
+    public int capacidadOro;
+    public int capacidadElixir;
 }
 
 [System.Serializable]
@@ -42,9 +46,12 @@ public class BuildingControl : MonoBehaviour {
         Choza
     }
 
+    public enum CostoRecurso { oro, elixir, gema }
+
     public BuildingPlacement buildingPlacement;
 
     public TipoEdificios tipoEdificios;
+    public CostoRecurso costoRecursoActualizacion;
 
     public bool construido = false;
     public bool actualizando = false;
@@ -111,13 +118,13 @@ public class BuildingControl : MonoBehaviour {
         if (!buildingPlacement)
             buildingPlacement = FindObjectOfType<BuildingPlacement>();
 
-        if(!sortingGroup)
-            sortingGroup=GetComponent<SortingGroup>();
+        if (!sortingGroup)
+            sortingGroup = GetComponent<SortingGroup>();
 
         if (!colliderModelo)
             colliderModelo = GetComponent<Collider>();
 
-        if(!animator)
+        if (!animator)
             animator = GetComponent<Animator>();
 
         if (suelo && normal) {
@@ -156,7 +163,10 @@ public class BuildingControl : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        cuerdas.SetActive(actualizando);
+        if (Input.GetMouseButtonDown(1))
+            OnMouseRight();
+
+            cuerdas.SetActive(actualizando);
         colliderModelo.isTrigger = moviendo;
         textNivel.text = $"Nivel {datosUnidad.nivel}";
 
@@ -183,6 +193,19 @@ public class BuildingControl : MonoBehaviour {
         SubirNivel(nivelASubir);
 
         sliderActu.gameObject.SetActive(false);
+    }
+
+    public void OnMouseRight() {
+        // Crear un rayo desde la posición del ratón en la cámara
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit;
+
+        // Verificar si el rayo impacta en el objeto
+        if (Physics.Raycast(ray, out hit)) {
+            if (hit.collider.gameObject == gameObject) {
+                OnRightMouseDown();
+            }
+        }
     }
 
     public void OnTriggerStay(Collider other) {
@@ -224,16 +247,20 @@ public class BuildingControl : MonoBehaviour {
 
         DatosNivel dn = datosUnidad.nivelList[nivel];
 
-        if(dn.sprite != null)
+        if (dn.sprite != null)
             main.sprite = dn.sprite;
-    
-        if(animator) {
+
+        if (animator) {
             animator.enabled = true;
             animator.SetInteger("nivel", nivel);
         }
 
         datosUnidad.nivel = nivel;
         datosUnidad.capacidadMax = dn.capacidadMax;
+    }
+
+    private void OnRightMouseDown() {
+
     }
 
     private void OnMouseDown() {

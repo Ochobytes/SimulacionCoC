@@ -572,6 +572,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingPlacement: {fileID: 0}
   tipoEdificios: 11
+  costoRecursoActualizacion: 0
   construido: 0
   actualizando: 0
   moviendo: 0
@@ -603,10 +604,18 @@ MonoBehaviour:
       capacidadMax: 0
       sprite: {fileID: -1395118343, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
       tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 0
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 1
-      capacidadMax: 0
+      capacidadMax: 1
       sprite: {fileID: -252555834, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 10
+      tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 250
+      capacidadOro: 0
+      capacidadElixir: 0
 --- !u!1 &2239368295575715995
 GameObject:
   m_ObjectHideFlags: 0

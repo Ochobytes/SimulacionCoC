@@ -90791,6 +90791,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1342556965}
   - component: {fileID: 1342556964}
+  - component: {fileID: 1342556966}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -90832,6 +90833,218 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1342556966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342556963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f990c662bc9a747b2b93f6c8661ca0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  oro: 0
+  maxOro: 0
+  elixir: 0
+  maxElixir: 0
+  gems: 0
+  numTropas: 0
+  nivelAldea: 0
+  edificiosPorNivel:
+  - tipoEdificios: 0
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 1
+    - nivel: 4
+      cantidad: 1
+    - nivel: 5
+      cantidad: 1
+    edificios: []
+  - tipoEdificios: 1
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 1
+    - nivel: 4
+      cantidad: 1
+    - nivel: 5
+      cantidad: 1
+    edificios: []
+  - tipoEdificios: 2
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 2
+    - nivel: 3
+      cantidad: 3
+    - nivel: 4
+      cantidad: 4
+    - nivel: 5
+      cantidad: 5
+    - nivel: 6
+      cantidad: 6
+    - nivel: 7
+      cantidad: 6
+    edificios: []
+  - tipoEdificios: 3
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 2
+    - nivel: 4
+      cantidad: 2
+    - nivel: 5
+      cantidad: 2
+    - nivel: 6
+      cantidad: 2
+    - nivel: 7
+      cantidad: 2
+    edificios: []
+  - tipoEdificios: 4
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 2
+    - nivel: 3
+      cantidad: 3
+    - nivel: 4
+      cantidad: 4
+    - nivel: 5
+      cantidad: 5
+    - nivel: 6
+      cantidad: 6
+    - nivel: 7
+      cantidad: 6
+    edificios: []
+  - tipoEdificios: 5
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 2
+    - nivel: 4
+      cantidad: 2
+    - nivel: 5
+      cantidad: 2
+    - nivel: 6
+      cantidad: 2
+    - nivel: 7
+      cantidad: 2
+    edificios: []
+  - tipoEdificios: 9
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 1
+    - nivel: 4
+      cantidad: 1
+    - nivel: 5
+      cantidad: 1
+    edificios: []
+  - tipoEdificios: 6
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 1
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 2
+    - nivel: 4
+      cantidad: 2
+    - nivel: 5
+      cantidad: 3
+    - nivel: 6
+      cantidad: 3
+    - nivel: 7
+      cantidad: 4
+    edificios: []
+  - tipoEdificios: 10
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 0
+    - nivel: 2
+      cantidad: 0
+    - nivel: 3
+      cantidad: 1
+    - nivel: 4
+      cantidad: 1
+    - nivel: 5
+      cantidad: 1
+    - nivel: 6
+      cantidad: 1
+    - nivel: 7
+      cantidad: 1
+    edificios: []
+  - tipoEdificios: 8
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 2
+    - nivel: 2
+      cantidad: 2
+    - nivel: 3
+      cantidad: 2
+    - nivel: 4
+      cantidad: 2
+    - nivel: 5
+      cantidad: 3
+    - nivel: 6
+      cantidad: 3
+    - nivel: 7
+      cantidad: 5
+    edificios: []
+  - tipoEdificios: 7
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 0
+    - nivel: 2
+      cantidad: 1
+    - nivel: 3
+      cantidad: 1
+    - nivel: 4
+      cantidad: 2
+    - nivel: 5
+      cantidad: 3
+    - nivel: 6
+      cantidad: 3
+    - nivel: 7
+      cantidad: 4
+    edificios: []
+  - tipoEdificios: 11
+    cantidadesPorNiveles:
+    - nivel: 1
+      cantidad: 5
+    - nivel: 2
+      cantidad: 5
+    - nivel: 3
+      cantidad: 5
+    - nivel: 4
+      cantidad: 5
+    - nivel: 5
+      cantidad: 5
+    - nivel: 6
+      cantidad: 5
+    - nivel: 7
+      cantidad: 5
+    edificios: []
 --- !u!1 &1343193465
 GameObject:
   m_ObjectHideFlags: 0

@@ -2177,6 +2177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingPlacement: {fileID: 0}
   tipoEdificios: 6
+  costoRecursoActualizacion: 1
   construido: 0
   actualizando: 0
   moviendo: 0
@@ -2208,23 +2209,47 @@ MonoBehaviour:
       capacidadMax: 0
       sprite: {fileID: -1395118343, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
       tiempoActualizacion: 0
+      costoConstruccion: 0
+      vida: 0
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 1
-      capacidadMax: 0
+      capacidadMax: 20
       sprite: {fileID: 1086988049, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 10
+      tiempoActualizacion: 300
+      costoConstruccion: 200
+      vida: 250
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 2
-      capacidadMax: 0
+      capacidadMax: 30
       sprite: {fileID: 1818279626, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 20
+      tiempoActualizacion: 900
+      costoConstruccion: 2000
+      vida: 270
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 3
-      capacidadMax: 0
+      capacidadMax: 35
       sprite: {fileID: 18175423, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 30
+      tiempoActualizacion: 7200
+      costoConstruccion: 10000
+      vida: 290
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 4
-      capacidadMax: 0
+      capacidadMax: 40
       sprite: {fileID: 1885295160, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 40
+      tiempoActualizacion: 18000
+      costoConstruccion: 100000
+      vida: 310
+      capacidadOro: 0
+      capacidadElixir: 0
     - nivelNecesario: 5
-      capacidadMax: 0
+      capacidadMax: 45
       sprite: {fileID: 1506712506, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
-      tiempoActualizacion: 50
+      tiempoActualizacion: 28800
+      costoConstruccion: 250000
+      vida: 330
+      capacidadOro: 0
+      capacidadElixir: 0
