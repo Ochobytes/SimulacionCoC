@@ -26,8 +26,8 @@ Transform:
   m_GameObject: {fileID: 1746897042226865894}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3535534, y: 0.3535534, z: -0.14644663, w: 0.85355335}
-  m_LocalPosition: {x: -0.043, y: -0.303, z: 0.005}
-  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
+  m_LocalPosition: {x: -0.107, y: -0.402, z: -0.071}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6316965430293987326}
@@ -74,6 +74,90 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_Sprite: {fileID: -1718512420, guid: 7b963b4906b12ad409cfa62adffbff62, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &4419776540581079242
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8971818035419786716}
+  - component: {fileID: 7125696967156420045}
+  m_Layer: 0
+  m_Name: Destruido
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &8971818035419786716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4419776540581079242}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.3535534, y: 0.3535534, z: -0.14644663, w: 0.85355335}
+  m_LocalPosition: {x: -0.047, y: -0.369, z: -0.033}
+  m_LocalScale: {x: 0.9, y: 0.75, z: 0.9}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6316965430293987326}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &7125696967156420045
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4419776540581079242}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -2132561875, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -182,9 +266,10 @@ GameObject:
   - component: {fileID: 7195536472310883784}
   - component: {fileID: 4262648410719619357}
   - component: {fileID: 2109068865601193968}
+  - component: {fileID: 4893634985772912201}
   m_Layer: 0
   m_Name: AlmacenElixir
-  m_TagString: Untagged
+  m_TagString: edificio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -203,6 +288,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 9012198347420355504}
+  - {fileID: 8971818035419786716}
   - {fileID: 4155318605955930466}
   - {fileID: 8219196273054049860}
   m_Father: {fileID: 0}
@@ -311,6 +397,65 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4893634985772912201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5279100865669566653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7df8700b4e55949b5fb4ba31c4208b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buildingPlacement: {fileID: 0}
+  construido: 0
+  actualizando: 0
+  moviendo: 0
+  tiempo: 0
+  nivelASubir: 0
+  ok: {r: 0, g: 1, b: 0, a: 1}
+  fail: {r: 1, g: 0, b: 0, a: 0.9647059}
+  sortingGroup: {fileID: 4262648410719619357}
+  colliderModelo: {fileID: 7195536472310883784}
+  animator: {fileID: 2109068865601193968}
+  cuerdas: {fileID: 4863235708617356824}
+  destruido: {fileID: 4419776540581079242}
+  normal: {fileID: -1963178934, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+  tierra: {fileID: 613671741, guid: 95c044be38633c24aa9c3cab84aa03a6, type: 3}
+  suelo: {fileID: 7506818810411342508}
+  main: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}
+  datosUnidad:
+    nivel: 0
+    capacidadActual: 0
+    capacidadMax: 0
+    nivelList:
+    - nivelNecesario: 0
+      capacidadMax: 0
+      sprite: {fileID: 0}
+      tiempoActualizacion: 0
+    - nivelNecesario: 1
+      capacidadMax: 0
+      sprite: {fileID: 0}
+      tiempoActualizacion: 10
+    - nivelNecesario: 2
+      capacidadMax: 0
+      sprite: {fileID: 0}
+      tiempoActualizacion: 20
+    - nivelNecesario: 3
+      capacidadMax: 0
+      sprite: {fileID: 0}
+      tiempoActualizacion: 30
+    - nivelNecesario: 4
+      capacidadMax: 0
+      sprite: {fileID: 0}
+      tiempoActualizacion: 40
+    - nivelNecesario: 5
+      capacidadMax: 0
+      sprite: {fileID: 0}
+      tiempoActualizacion: 50
 --- !u!1 &8655072524628429797
 GameObject:
   m_ObjectHideFlags: 0

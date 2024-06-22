@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 4904079244779355305}
   m_Layer: 0
   m_Name: Clan
-  m_TagString: Untagged
+  m_TagString: edificio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

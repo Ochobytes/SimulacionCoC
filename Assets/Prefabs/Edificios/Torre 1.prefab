@@ -183,7 +183,7 @@ GameObject:
   - component: {fileID: 2029037255789929529}
   m_Layer: 0
   m_Name: Torre 1
-  m_TagString: Untagged
+  m_TagString: edificio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
