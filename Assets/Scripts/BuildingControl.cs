@@ -105,7 +105,7 @@ public class BuildingControl : MonoBehaviour {
         int seconds = timeSpan.Seconds;
 
         if (days > 0)
-            return $"{days}D {hours}h";
+            return $"{days}D {hours.ToString("00")}h";
 
         if (hours > 0)
             return $"{hours}h {minutes}M";
@@ -270,7 +270,7 @@ public class BuildingControl : MonoBehaviour {
     }
 
     private void OnRightMouseDown() {
-
+        GameManager.Instance.ActualizarEdificio(this);
     }
 
     private void OnMouseDown() {
@@ -296,7 +296,7 @@ public class BuildingControl : MonoBehaviour {
     }
 
     IEnumerator TierraFade(SpriteRenderer s) {
-        yield return new WaitForSeconds(1.5f * GameManager.Instance.Velocidad);
+        yield return new WaitForSeconds(1.5f / GameManager.Instance.Velocidad);
         Color c = s.color;
         for (int i = 10; i >= 0; i--) {
             yield return new WaitForSeconds(0.075f / GameManager.Instance.Velocidad);

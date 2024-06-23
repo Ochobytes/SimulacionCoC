@@ -40,7 +40,9 @@ public class GameManager : MonoBehaviour {
 
     public GameObject panelConstruccion;
     public GameObject panelEliminar;
+    public GameObject panelActualizar;
     public Button botonEliminar;
+    public Button botonActualizar;
 
     public List<EdificiosPorNivel> edificiosPorNivel = new();
 
@@ -92,6 +94,9 @@ public class GameManager : MonoBehaviour {
 
         public void ActualizarBotonConstruccion(int nivel) {
             if (!botonConstruccion) return;
+
+            if (nivel >= prefab.datosUnidad.nivelList.Count)
+                nivel = prefab.datosUnidad.nivelList.Count - 1;
 
             CantidadPorNivel c = null;
             try {
@@ -147,25 +152,29 @@ public class GameManager : MonoBehaviour {
             item.ActualizarBotonConstruccion(nivelAldea);
         }
 
+
         int o = 0;
         int e = 0;
 
         foreach (var item in FindObjectsOfType<BuildingControl>()) {
             if (item.tipoEdificios == BuildingControl.TipoEdificios.Ayuntamiento) {
-                o += item.datosUnidad.nivelList[nivelAldea].capacidadOro;
-                e += item.datosUnidad.nivelList[nivelAldea].capacidadElixir;
+                nivelAldea = item.datosUnidad.nivel;
+                o += item.datosUnidad.nivelList[item.datosUnidad.nivel].capacidadOro;
+                e += item.datosUnidad.nivelList[item.datosUnidad.nivel].capacidadElixir;
 
-            }else if (item.tipoEdificios == BuildingControl.TipoEdificios.AlmacenDeOro) {
-                o += item.datosUnidad.nivelList[nivelAldea].capacidadOro;
-
+            } else if (item.tipoEdificios == BuildingControl.TipoEdificios.AlmacenDeOro) {
+                o += item.datosUnidad.nivelList[item.datosUnidad.nivel].capacidadOro;
+                item.animator.SetFloat("cap", oro / (float)maxOro);
+            
             } else if (item.tipoEdificios == BuildingControl.TipoEdificios.MinaDeOro) {
-                o += item.datosUnidad.nivelList[nivelAldea].capacidadOro;
+                o += item.datosUnidad.nivelList[item.datosUnidad.nivel].capacidadOro;
 
             } else if (item.tipoEdificios == BuildingControl.TipoEdificios.AlmacenDeElixir) {
-                e += item.datosUnidad.nivelList[nivelAldea].capacidadElixir;
+                e += item.datosUnidad.nivelList[item.datosUnidad.nivel].capacidadElixir;
+                item.animator.SetFloat("cap", elixir / (float)maxElixir);
 
             } else if (item.tipoEdificios == BuildingControl.TipoEdificios.RecolectorDeElixir) {
-                e += item.datosUnidad.nivelList[nivelAldea].capacidadElixir;
+                e += item.datosUnidad.nivelList[item.datosUnidad.nivel].capacidadElixir;
             }
         }
 
@@ -210,6 +219,7 @@ public class GameManager : MonoBehaviour {
         
         panelConstruccion.SetActive(false);
         panelEliminar.SetActive(true);
+        panelActualizar.SetActive(false);
 
         BotonEdificios b = botonEliminar.GetComponent<BotonEdificios>();
         b.ChangeIcono(adorno.recurso);
@@ -229,6 +239,43 @@ public class GameManager : MonoBehaviour {
         botonEliminar.onClick.RemoveAllListeners();
         botonEliminar.onClick.AddListener(delegate {
             adorno.Eliminar(panelEliminar);
+            botonEliminar.interactable = false;
+        });
+    }
+
+    public void ActualizarEdificio(BuildingControl edificioMejora) {
+        DatosUnidad du = edificioMejora.datosUnidad;
+
+        if (!botonActualizar || (du.nivel + 1) >= du.nivelList.Count) return;
+
+        panelConstruccion.SetActive(false);
+        panelEliminar.SetActive(false);
+        panelActualizar.SetActive(true);
+
+        DatosNivel dn = du.nivelList[du.nivel + 1];
+
+        BotonEdificios b = botonActualizar.GetComponent<BotonEdificios>();
+        b.ChangeIcono(edificioMejora.costoRecursoActualizacion);
+        b.costo.text = dn.costoConstruccion.ToString();
+
+        bool recursoNecesario = false;
+
+        if (edificioMejora.costoRecursoActualizacion == BuildingControl.CostoRecurso.oro)
+            recursoNecesario = GameManager.Instance.oro >= dn.costoConstruccion;
+        else if (edificioMejora.costoRecursoActualizacion == BuildingControl.CostoRecurso.elixir)
+            recursoNecesario = GameManager.Instance.elixir >= dn.costoConstruccion;
+        else
+            recursoNecesario = GameManager.Instance.gems >= dn.costoConstruccion;
+
+        if (recursoNecesario)
+            recursoNecesario = (dn.nivelNecesario <= nivelAldea);
+
+        botonActualizar.interactable = recursoNecesario;
+
+        botonActualizar.onClick.RemoveAllListeners();
+        botonActualizar.onClick.AddListener(delegate {
+            edificioMejora.Actualizar(du.nivel + 1);
+            botonActualizar.interactable = false;
         });
     }
 }

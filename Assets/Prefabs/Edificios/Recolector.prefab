@@ -2023,6 +2023,7 @@ GameObject:
   - component: {fileID: 51527418660382765}
   - component: {fileID: 5525441327853632219}
   - component: {fileID: -6084281786096580163}
+  - component: {fileID: 2858637593163862700}
   m_Layer: 0
   m_Name: Recolector
   m_TagString: edificio
@@ -2199,6 +2200,7 @@ MonoBehaviour:
     - nivelNecesario: 0
       capacidadMax: 0
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 0
       costoConstruccion: 0
       vida: 0
@@ -2207,6 +2209,7 @@ MonoBehaviour:
     - nivelNecesario: 1
       capacidadMax: 1000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 10
       costoConstruccion: 150
       vida: 400
@@ -2215,6 +2218,7 @@ MonoBehaviour:
     - nivelNecesario: 1
       capacidadMax: 2000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 60
       costoConstruccion: 300
       vida: 440
@@ -2223,6 +2227,7 @@ MonoBehaviour:
     - nivelNecesario: 2
       capacidadMax: 3000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 240
       costoConstruccion: 700
       vida: 480
@@ -2231,6 +2236,7 @@ MonoBehaviour:
     - nivelNecesario: 2
       capacidadMax: 5000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 600
       costoConstruccion: 1400
       vida: 520
@@ -2239,6 +2245,7 @@ MonoBehaviour:
     - nivelNecesario: 3
       capacidadMax: 10000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 2400
       costoConstruccion: 3000
       vida: 560
@@ -2247,6 +2254,7 @@ MonoBehaviour:
     - nivelNecesario: 3
       capacidadMax: 20000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 10800
       costoConstruccion: 7000
       vida: 600
@@ -2255,6 +2263,7 @@ MonoBehaviour:
     - nivelNecesario: 4
       capacidadMax: 30000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 21600
       costoConstruccion: 14000
       vida: 640
@@ -2263,6 +2272,7 @@ MonoBehaviour:
     - nivelNecesario: 4
       capacidadMax: 50000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 21600
       costoConstruccion: 28000
       vida: 680
@@ -2271,6 +2281,7 @@ MonoBehaviour:
     - nivelNecesario: 5
       capacidadMax: 75000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 36000
       costoConstruccion: 56000
       vida: 720
@@ -2279,6 +2290,7 @@ MonoBehaviour:
     - nivelNecesario: 5
       capacidadMax: 100000
       sprite: {fileID: 0}
+      modelo3D: {fileID: 0}
       tiempoActualizacion: 36000
       costoConstruccion: 75000
       vida: 780
@@ -2311,6 +2323,32 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &2858637593163862700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7382593115984917009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f045f7fbbb81c14eba8e0a84d9ccf05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  recursoGenerar: 1
+  animator: {fileID: 51527418660382765}
+  tiempo: 0
+  recursoPorHora:
+  - 200
+  - 400
+  - 600
+  - 800
+  - 1000
+  - 1300
+  - 1600
+  - 1900
+  - 2200
+  - 2800
 --- !u!1 &7826306676478576061
 GameObject:
   m_ObjectHideFlags: 0
